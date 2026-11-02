@@ -122,6 +122,8 @@
 | :---: | :---: | :---: | :---: |
 | [<img src="docs/screenshots/mobile-home.png" alt="هیروی APEX در گوشی" width="180" />](docs/screenshots/mobile-home.png) | [<img src="docs/screenshots/mobile-collection.png" alt="کارت‌های مجموعه در گوشی" width="180" />](docs/screenshots/mobile-collection.png) | [<img src="docs/screenshots/mobile-studio.png" alt="استودیوی سه‌بعدی و کنترل‌های آن در گوشی" width="180" />](docs/screenshots/mobile-studio.png) | [<img src="docs/screenshots/mobile-about.png" alt="صفحهٔ درباره در گوشی" width="180" />](docs/screenshots/mobile-about.png) |
 
+در استودیوی گوشی، فقط انتخاب روز/شب و سه رنگ بالای صحنه قرار می‌گیرند؛ ماشین با لمس می‌چرخد و نامش زیر صحنه، بالای نوار انتخاب ماشین‌ها نمایش داده می‌شود. نوار زاویه‌ها و متن راهنما در موبایل حذف شده‌اند تا روی ماشین نیفتند.
+
 <a id="features"></a>
 ## امکانات اصلی
 

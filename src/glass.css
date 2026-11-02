@@ -296,6 +296,62 @@ body {
 [data-presentation='true'] .toast {
   display: none;
 }
+
+/* Mobile studio: keep camera tools off the vehicle and dock its name by the rail. */
+@media (max-width: 760px) {
+  .turntable-studio .turntable-top,
+  .turntable-studio .turntable-interaction,
+  .turntable-studio .turntable-zoom,
+  .turntable-palette > .overline,
+  .turntable-palette > strong,
+  .turntable-title > .overline,
+  .turntable-title > p {
+    display: none;
+  }
+  .turntable-palette {
+    top: 14px;
+    left: 20px;
+    right: 20px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .turntable-palette .color-swatches {
+    display: flex;
+    gap: 12px;
+    margin: 0;
+  }
+  .turntable-palette .color-swatches > button {
+    width: 32px;
+    height: 32px;
+    flex: none;
+  }
+  .turntable-palette .turntable-light-controls {
+    margin: 0;
+    padding: 4px;
+    flex: none;
+  }
+  .turntable-light-controls > button {
+    min-width: 40px;
+    min-height: 34px;
+  }
+  .turntable-title {
+    top: auto;
+    bottom: 153px;
+    left: 20px;
+    right: 20px;
+    text-align: center;
+  }
+  .turntable-title h1 {
+    max-width: none;
+    margin: 0;
+    font-size: clamp(25px, 7.5vw, 34px);
+    line-height: 1.1;
+    text-align: center;
+  }
+}
 @media (max-width: 760px) {
   .card-visual {
     margin: 7px 7px 0;
