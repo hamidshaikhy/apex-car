@@ -1,0 +1,318 @@
+#root {
+  isolation: isolate;
+}
+body {
+  background: #0d120f;
+}
+.site-ambient {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-position: center;
+  background-size: cover;
+  pointer-events: none;
+}
+.header-home:not(.header-hero) {
+  background: #101612d9;
+  color: #edf0e9;
+  border-color: #ffffff15;
+  backdrop-filter: blur(25px);
+}
+.header-home .nav-cta {
+  border-color: #ffffff65;
+}
+.header-dark {
+  background: #101612df;
+  backdrop-filter: blur(25px);
+}
+.apex-collection,
+.catalog-page {
+  background: transparent;
+  color: #f3f4ed;
+}
+.apex-collection .muted,
+.catalog-page .muted {
+  color: #bdc7b7;
+}
+.collection-title-row p,
+.catalog-page .page-intro > p {
+  color: #b5c0af;
+}
+.collection-all {
+  color: #e5ebdf;
+}
+.apex-filter-row,
+.catalog-controls {
+  border-color: #ffffff24;
+}
+.apex-brand-filters button {
+  color: #c2ccba;
+  border-color: transparent;
+}
+.apex-brand-filters button:hover {
+  color: #fff;
+  background: #ffffff14;
+}
+.apex-brand-filters button.active {
+  color: #152014;
+  background: #e5ebdd;
+}
+.apex-sort,
+.apex-sort select {
+  color: #c5cdbf;
+}
+.apex-sort select {
+  font-family: var(--body-fa);
+  font-size: 12px;
+}
+.apex-sort option,
+.catalog-controls option {
+  color: #182115;
+  background: #edf0e7;
+}
+.car-card {
+  background: linear-gradient(145deg, #ffffff1a, #ffffff08);
+  border: 1px solid #ffffff2a;
+  border-radius: 12px;
+  box-shadow:
+    0 18px 70px #00000022,
+    inset 0 1px 0 #ffffff0e;
+  backdrop-filter: blur(24px) saturate(1.15);
+  -webkit-backdrop-filter: blur(24px) saturate(1.15);
+  overflow: hidden;
+  color: #f1f3ec;
+  transition:
+    border-color 0.35s,
+    box-shadow 0.35s;
+}
+.car-card:hover {
+  border-color: #ffffff50;
+  box-shadow:
+    0 22px 75px #0000003b,
+    inset 0 1px 0 #ffffff15;
+}
+.card-visual {
+  margin: 10px 10px 0;
+  border-radius: 7px;
+}
+.card-info {
+  padding: 21px 24px 4px;
+}
+.card-info > .eyebrow {
+  color: #afbeaa;
+}
+.card-name {
+  color: #f1f4eb;
+}
+.card-meta {
+  color: #b7c2b0;
+}
+.card-meta > span {
+  background: #b7c2b0;
+}
+.card-performance-line {
+  color: #c6cfbf;
+}
+.card-performance-line > span + span {
+  border-color: #ffffff26;
+}
+.card-price-row {
+  border-color: #ffffff26;
+}
+.card-price-row .price-label {
+  color: #a5b69c;
+}
+.card-price-row .circle-arrow {
+  color: #e1e9db;
+  border-color: #ffffff5c;
+}
+.card-price-row .circle-arrow:hover {
+  background: #e3ebdc;
+  color: #182016;
+}
+.compare-add {
+  color: #b3c2a8;
+  border-color: #ffffff13;
+  min-height: 43px;
+}
+.compare-add:hover,
+.compare-add.selected {
+  color: #f6b68d;
+}
+.apex-collection-end {
+  border-color: #ffffff26;
+  color: #a8b79f;
+}
+.apex-collection-end a {
+  color: #e0e9d9;
+}
+.catalog-controls .search-input,
+.saved-filter,
+.sort-select {
+  background: #ffffff0b;
+  border-color: #ffffff30;
+  color: #e3e9dd;
+  backdrop-filter: blur(18px);
+}
+.search-input input {
+  color: #eef3e8;
+}
+.search-input input::placeholder {
+  color: #a8b69f;
+}
+.saved-filter.active {
+  background: #dce7d2;
+  color: #1a2416;
+}
+.sort-select select {
+  color: inherit;
+}
+.catalog-filters .filter-pill {
+  color: #c4cebc;
+  border-color: #ffffff30;
+}
+.catalog-filters .filter-pill:hover {
+  background: #ffffff17;
+}
+.catalog-filters .filter-pill.active {
+  background: #e5ecde;
+  color: #162012;
+  border-color: #e5ecde;
+}
+.catalog-filters > span,
+.catalog-page > .catalog-footnote {
+  color: #adbea2;
+}
+.catalog-page .empty-state {
+  color: #e2eadb;
+}
+.catalog-page .empty-state p {
+  color: #b9c5b0;
+}
+.about-editorial,
+.vehicle-page,
+.compare-page,
+.not-found {
+  background: var(--paper);
+}
+.related-section .car-card {
+  background: #18201a;
+}
+.related-section .collection-title-row p {
+  color: #687361;
+}
+.related-section .collection-all {
+  color: #192316;
+}
+@supports not (backdrop-filter: blur(24px)) {
+  .car-card {
+    background: #1c251ff5;
+  }
+}
+.about-editorial {
+  background: transparent;
+  color: #ecf1e6;
+}
+.about-opening-copy > .overline {
+  color: #c5d0bc;
+}
+.about-opening-copy > p,
+.about-point-of-view > div > p {
+  color: #bfccb5;
+}
+.about-opening-copy .text-link {
+  color: #e7eedd;
+  border-color: #ffffff60;
+}
+.about-emblem {
+  border: 1px solid #ffffff21;
+  box-shadow: 0 20px 100px #00000035;
+}
+.about-facts {
+  background: #ffffff08;
+  backdrop-filter: blur(22px);
+  border-color: #ffffff23;
+}
+.about-facts > div {
+  border-color: #ffffff25;
+}
+.about-facts span {
+  color: #becdb2;
+}
+.about-principle {
+  border-color: #ffffff29;
+}
+.about-principle p {
+  color: #b6c6a9;
+}
+.about-maker {
+  background: #122016a6;
+  backdrop-filter: blur(24px);
+  border-block: 1px solid #ffffff23;
+}
+.about-maker .overline {
+  color: #b9caaa;
+}
+.about-maker p {
+  color: #bbcdac;
+}
+.maker-links a {
+  color: #e1ecd7;
+  border-color: #ffffff40;
+}
+.about-credits h2 {
+  color: #e1ebd8;
+}
+.about-credits p {
+  color: #b8c9a9;
+}
+.about-credits details,
+.about-credits li {
+  border-color: #ffffff2c;
+}
+.about-credits li > a {
+  color: #c1d8ac;
+}
+.presentation-return {
+  opacity: 1;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  top: max(18px, env(safe-area-inset-top));
+  right: max(18px, env(safe-area-inset-right));
+  min-height: 42px;
+  padding: 10px 15px;
+  font-size: 11px;
+  border: 1px solid #ffffff40;
+  backdrop-filter: blur(14px);
+  box-shadow: 0 5px 24px #00000014;
+}
+.atmosphere-day .presentation-return {
+  color: #22301d;
+  background: #f5f7f0dc;
+  border-color: #22301d40;
+}
+[data-presentation='true'] .compare-tray,
+[data-presentation='true'] .toast {
+  display: none;
+}
+@media (max-width: 760px) {
+  .card-visual {
+    margin: 7px 7px 0;
+  }
+  .card-info {
+    padding: 18px 17px 3px;
+  }
+  .car-card {
+    border-radius: 10px;
+  }
+  .header-home .nav.open,
+  .header-dark .nav.open {
+    background: #111a14f5;
+    color: #e5edde;
+    backdrop-filter: blur(24px);
+  }
+  .catalog-controls {
+    gap: 12px;
+  }
+}

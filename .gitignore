@@ -1,0 +1,19 @@
+node_modules/
+dist/
+*.local
+.DS_Store
+*.tsbuildinfo
+
+# Local source downloads duplicate the models already bundled in public/.
+model-downloads/
+# Development captures and research; curated README images live in docs/screenshots/.
+docs/qa/
+docs/model-research/
+docs/home-final-desktop.png
+docs/loading-v3.png
+docs/studio-final-revuelto.png
+
+.env
+.env.*
+!.env.example
+*.log

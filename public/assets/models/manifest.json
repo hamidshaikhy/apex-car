@@ -1,0 +1,196 @@
+[
+  {
+    "id": "revuelto",
+    "vehicle": "Lamborghini Revuelto",
+    "file": "hd/revuelto.glb",
+    "bytes": 2029364,
+    "triangles": 402370,
+    "paintMaterials": [
+      "Material.071",
+      "Material.072",
+      "Material.073",
+      "MAT_CarpaintMain",
+      "CRBN_CRBN"
+    ],
+    "author": "SDC PERFORMANCE",
+    "source": "https://sketchfab.com/3d-models/revuelto-30tm-669d08892c9048e0897b053ab3f8e251",
+    "license": "CC BY 4.0",
+    "simplified": false,
+    "sha256": "946e0fc5315e6b61e86981e31d61f4d311bea3242f645fd99f8c65088cebb0b2"
+  },
+  {
+    "id": "mustang",
+    "vehicle": "Ford Mustang Shelby GT500",
+    "file": "hd/mustang.glb",
+    "bytes": 50664752,
+    "triangles": 349291,
+    "paintMaterials": [
+      "carpaint"
+    ],
+    "author": "Jiaxing",
+    "source": "https://sketchfab.com/3d-models/ford-mustang-shelby-gt500-0eaa7a16796540f29461ddae05ecdeb3",
+    "license": "CC BY 4.0",
+    "simplified": false,
+    "sha256": "b4aefedd49d6246d201df9c03ee6679e9c291a62d40f811078f2f386886c2111"
+  },
+  {
+    "id": "amg",
+    "vehicle": "Mercedes-AMG GT S",
+    "file": "hd/amg.glb",
+    "bytes": 3593368,
+    "triangles": 930262,
+    "paintMaterials": [
+      "マテリアル.029",
+      "マテリアル.030",
+      "マテリアル.024",
+      "マテリアル.300"
+    ],
+    "author": "GabrielPedroza",
+    "source": "https://github.com/GabrielPedroza/Mercedes-AMG-GT-S-2016",
+    "license": "MIT",
+    "simplified": false,
+    "sha256": "26f86f0b637a8bdd247df660a3862b905da1562deb324eeeccc8fc6f8104951f"
+  },
+  {
+    "id": "bmw",
+    "vehicle": "BMW M4 Competition",
+    "file": "hd/bmw.glb",
+    "bytes": 22739084,
+    "triangles": 206593,
+    "paintMaterials": [
+      "Meshesbody151Mtl",
+      "Mesheslivery1Mtl",
+      "Mesheszx1Mtl"
+    ],
+    "author": "SRT Performance",
+    "source": "https://sketchfab.com/3d-models/bmw-m4-competition-m-package-5c0a2dafb1ad408d9fc9eeef9aee531b",
+    "license": "CC BY 4.0",
+    "simplified": false,
+    "sha256": "913ac951ba2645777c91393b86aed2def2433a807e57e626b203908aa474b8fb"
+  },
+  {
+    "id": "senna",
+    "vehicle": "McLaren Senna",
+    "file": "hd/senna.glb",
+    "bytes": 26986904,
+    "triangles": 407593,
+    "paintMaterials": [
+      "sennapaintmain",
+      "sennapaint"
+    ],
+    "author": "Black Snow",
+    "source": "https://sketchfab.com/3d-models/mclaren-senna-free-ea3e43a6eb004853a87fe9c58422eb96",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "simplified": false,
+    "sha256": "ffd124e440fad20faa83b633d27225c8138f9ae6b58cb1ee9846549eb6e1333d"
+  },
+  {
+    "id": "gtr",
+    "vehicle": "Nissan GT-R Premium R35",
+    "file": "hd/gtr.glb",
+    "bytes": 17727652,
+    "triangles": 279787,
+    "paintMaterials": [
+      "r35_paint"
+    ],
+    "author": "Black Snow",
+    "source": "https://sketchfab.com/3d-models/nissan-skyline-gtr-r35-7b142ea3376e4811a326256c59bbc7a2",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "simplified": false,
+    "sha256": "8804a3a4c53c780229404109164f15f8f04a9e821555c98b4799e0dcf6781819"
+  },
+  {
+    "id": "porsche",
+    "vehicle": "Porsche 911 Targa 4S",
+    "file": "hd/porsche.glb",
+    "bytes": 6145692,
+    "triangles": 116367,
+    "paintMaterials": [
+      "PAINT_COLOR_4"
+    ],
+    "author": "DisneyCars",
+    "source": "https://sketchfab.com/3d-models/2021-porsche-911-targa-4s-616ebc4356c74a3b8554c396eb3bd34c",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "simplified": false,
+    "sha256": "d7bca99041c3ddc759d0ae91b49a211ec8364417880cc733997752ddd954469e"
+  },
+  {
+    "id": "audi",
+    "vehicle": "Audi RS5 Coupe",
+    "file": "hd/audi.glb",
+    "bytes": 42967652,
+    "triangles": 295882,
+    "paintMaterials": [
+      "Paint"
+    ],
+    "author": "WillisChiejina",
+    "source": "https://sketchfab.com/3d-models/audi-rs5-75d636ab26b1423ca61ffd0fd758fd0a",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "simplified": false,
+    "sha256": "89c755c10637b7d9021f938e863e50ce2459ee3e03fb47892986cef4ed95d680"
+  },
+  {
+    "id": "challenger",
+    "vehicle": "Dodge Challenger",
+    "file": "hd/challenger.glb",
+    "bytes": 25686208,
+    "triangles": 652216,
+    "paintMaterials": [
+      "01___Default",
+      "Material__287"
+    ],
+    "author": "Gesy",
+    "source": "https://sketchfab.com/3d-models/dodge-challenger-2c1f18d2f0214cb7a746fc5dd2baeebe",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "simplified": false,
+    "sha256": "2543ee607098b8e5f0150c9c498ebf17138f8a7035ed7916713d1c0af1222eed"
+  },
+  {
+    "id": "tourbillon",
+    "vehicle": "Bugatti Tourbillon",
+    "file": "hd/tourbillon.glb",
+    "bytes": 20030372,
+    "triangles": 368061,
+    "paintMaterials": [
+      "bBugatti_Tourbillon_2026Paint_Material1",
+      "bBugatti_Tourbillon_2026Coloured_Material1"
+    ],
+    "author": "Ddiaz Design",
+    "source": "https://sketchfab.com/3d-models/2026-bugatti-tourbillon-4f63f5a74611477989cefd9861b9784a",
+    "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "simplified": false,
+    "sha256": "0d7f217a8d2f8555e59b9b4d936afa9fed49a4668df8e4bbf222e6b79829f778"
+  },
+  {
+    "id": "one77",
+    "vehicle": "Aston Martin One-77",
+    "file": "hd/one77.glb",
+    "bytes": 11188368,
+    "triangles": 188540,
+    "paintMaterials": [
+      "AstonAstonMartin_One77Reward_2010Paint_Material1",
+      "AstonAstonMartin_One77Reward_2010Coloured_Material1"
+    ],
+    "author": "Ddiaz Design",
+    "source": "https://sketchfab.com/3d-models/2011-aston-martin-one-77-f93cdfb6406f4f4dbc9f7b2dcb0f0ebd",
+    "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "simplified": false,
+    "sha256": "4c8c1b3c53e9700ac92d73cc201a61c68fdd0d831b73856d54159ac824a0c6e6"
+  },
+  {
+    "id": "ghost",
+    "vehicle": "Rolls-Royce Ghost",
+    "file": "hd/ghost.glb",
+    "bytes": 37357368,
+    "triangles": 765829,
+    "paintMaterials": [
+      "rrghost_paint",
+      "rrghost_paint_b"
+    ],
+    "author": "Black Snow",
+    "source": "https://sketchfab.com/3d-models/rolls-royce-ghost-4a590f4afa094fa8b407a14db77a63a8",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "simplified": false,
+    "sha256": "087bfa5ab128fcd6cc90c52367149f9bf615d1101e976a7354ce52c7324b7d1a"
+  }
+]

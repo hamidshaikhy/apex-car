@@ -1,0 +1,1775 @@
+[
+  {
+    "id": "revuelto",
+    "materials": [
+      {
+        "name": "BLEU_DETAILS.002",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "MAT_CarbonFiberMatte-material.018_BLEU DETAILS.002_0"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mustang",
+    "materials": [
+      {
+        "name": "rearlight",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "name": "tinted_glass",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          ""
+        ]
+      },
+      {
+        "name": "light",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "",
+          ""
+        ]
+      },
+      {
+        "name": "light",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          ""
+        ]
+      },
+      {
+        "name": "tinted_glass",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          ""
+        ]
+      },
+      {
+        "name": "tinted_glass",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          ""
+        ]
+      },
+      {
+        "name": "tinted_glass",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          ""
+        ]
+      },
+      {
+        "name": "tinted_glass",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          ""
+        ]
+      },
+      {
+        "name": "rearlight",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          ""
+        ]
+      },
+      {
+        "name": "rearlight",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          ""
+        ]
+      },
+      {
+        "name": "tinted_glass",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          ""
+        ]
+      },
+      {
+        "name": "tinted_glass",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          ""
+        ]
+      },
+      {
+        "name": "tinted_glass",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "id": "amg",
+    "materials": [
+      {
+        "name": "マテリアル.286",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_13"
+        ]
+      },
+      {
+        "name": "マテリアル.002",
+        "color": [
+          0.23218044638633728,
+          0.293610543012619,
+          0.2387901395559311,
+          1
+        ],
+        "emissive": [
+          1,
+          1,
+          1
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_14"
+        ]
+      },
+      {
+        "name": "マテリアル.287",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_15"
+        ]
+      },
+      {
+        "name": "マテリアル.259",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_16"
+        ]
+      },
+      {
+        "name": "マテリアル.019",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_17"
+        ]
+      },
+      {
+        "name": "マテリアル.020",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_18"
+        ]
+      },
+      {
+        "name": "マテリアル.018",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_19"
+        ]
+      },
+      {
+        "name": "マテリアル.017",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": true,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_20"
+        ]
+      },
+      {
+        "name": "マテリアル.254",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_21"
+        ]
+      },
+      {
+        "name": "マテリアル.253",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_22"
+        ]
+      },
+      {
+        "name": "マテリアル.258",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_23"
+        ]
+      },
+      {
+        "name": "マテリアル.257",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_24"
+        ]
+      },
+      {
+        "name": "マテリアル.256",
+        "color": [
+          0.0607406422495842,
+          0.0607406422495842,
+          0.0607406422495842,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_25"
+        ]
+      },
+      {
+        "name": "マテリアル.255",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_26"
+        ]
+      },
+      {
+        "name": "マテリアル.021",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          1,
+          1,
+          1
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_F_27"
+        ]
+      },
+      {
+        "name": "マテリアル.243",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_R_57"
+        ]
+      },
+      {
+        "name": "マテリアル.201",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_R2_72"
+        ]
+      },
+      {
+        "name": "マテリアル.192",
+        "color": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_R2_73"
+        ]
+      },
+      {
+        "name": "マテリアル.190",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_red_R_75"
+        ]
+      },
+      {
+        "name": "マテリアル.189",
+        "color": [
+          0.728867769241333,
+          0,
+          0,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_red_R_76"
+        ]
+      },
+      {
+        "name": "マテリアル.188",
+        "color": [
+          0.800000011920929,
+          0.800000011920929,
+          0.800000011920929,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "light_red_R_77"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bmw",
+    "materials": [
+      {
+        "name": "Meshesheadlight51Mtl",
+        "color": [
+          0,
+          0,
+          0,
+          0.49167052290606206
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "Object_9"
+        ]
+      },
+      {
+        "name": "Meshesredlight1Mtl",
+        "color": [
+          1,
+          0,
+          0,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "Object_13"
+        ]
+      },
+      {
+        "name": "Mesheslight51Mtl",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": true,
+        "emissiveMap": false,
+        "parts": [
+          "Object_16"
+        ]
+      },
+      {
+        "name": "Meshestail71Mtl",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "Object_25"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "senna",
+    "materials": [
+      {
+        "name": "senna_raceparts",
+        "color": [
+          0.10829235995947611,
+          0.10829235995947611,
+          0.10829235995947611,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "euansenna_flank_R_senna_raceparts_0",
+          "euansenna_fender_R_senna_raceparts_0",
+          "euansenna_flank_L_senna_raceparts_0",
+          "euansenna_fender_L_senna_raceparts_0",
+          "euansenna_door_R_senna_raceparts_0",
+          "euansenna_bumper_F_senna_raceparts_0",
+          "euansenna_rear_spoiler_GTR_senna_raceparts_0",
+          "euansenna_seat_FL_stig_senna_raceparts_0",
+          "euansenna_roof_hardtop_senna_raceparts_0",
+          "euansenna_frunk_senna_raceparts_0",
+          "euansenna_transaxle_senna_raceparts_0",
+          "euansenna_engine_v8_senna_raceparts_0",
+          "euansenna_rear_wheelhouse_stock_L_senna_raceparts_0",
+          "euansenna_rear_wheelhouse_stock_R_senna_raceparts_0",
+          "euansenna_sideskirt_R_senna_raceparts_0",
+          "euansenna_sideskirt_L_senna_raceparts_0",
+          "euansenna_rear_heat_shield_senna_raceparts_0",
+          "euansenna_trunklid_stock_senna_raceparts_0",
+          "euansenna_doorglass_L_senna_raceparts_0",
+          "euansenna_door_L_senna_raceparts_0",
+          "euansenna_wheel1paint_senna_raceparts_0",
+          "euansenna_dash_senna_raceparts_0",
+          "euansenna_seat_FL_senna_raceparts_0",
+          "euansenna_seat_FR_senna_raceparts_0",
+          "euansenna_doorglass_R_senna_raceparts_0",
+          "euansenna_doorpanel_L_senna_raceparts_0",
+          "euansenna_bumper_R_senna_raceparts_0",
+          "euansenna_hood_senna_raceparts_0",
+          "euansenna_doorpanel_R_senna_raceparts_0",
+          "euansenna_headlight_R_senna_raceparts_0",
+          "euansenna_headlight_L_senna_raceparts_0",
+          "euansenna_body_senna_raceparts_0",
+          "euansenna_exhaust_tip_a_senna_raceparts_0",
+          "euansenna_flank_hardtop_senna_raceparts_0",
+          "euansenna_wheel1paint.001_senna_raceparts_0",
+          "euansenna_wheel1paint.002_senna_raceparts_0",
+          "euansenna_wheel1paint.003_senna_raceparts_0"
+        ]
+      },
+      {
+        "name": "euansenna_headlight",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0.2,
+          0.2,
+          0.2
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "euansenna_fender_R_euansenna_signal_R_2_0",
+          "euansenna_fender_L_euansenna_signal_L_2_0",
+          "euansenna_bumper_F_euansenna_signal_L_5_0",
+          "euansenna_roof_hardtop_heiquan_0",
+          "euansenna_radhose_R_scintilla_engine.001_0",
+          "euansenna_dash_a_int_screen_0",
+          "euansenna_seat_FL_wheel_0",
+          "euansenna_headlight_R_euansenna_headlight_0",
+          "euansenna_headlight_L_euansenna_headlight_0",
+          "euansenna_body_euansenna_taillight_0",
+          "euansenna_flank_hardtop_euansenna_taillight_0"
+        ]
+      },
+      {
+        "name": "senna_glass",
+        "color": [
+          0.32582511289594496,
+          0.32582511289594496,
+          0.32582511289594496,
+          0.29104850605258986
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "euansenna_fender_R_senna_glass_0",
+          "euansenna_fender_L_senna_glass_0",
+          "euansenna_bumper_F_senna_glass_0",
+          "euansenna_doorglass_L_senna_glass_0",
+          "euansenna_trunklid_glass_senna_glass_0",
+          "euansenna_dash_senna_glass_0",
+          "euansenna_doorglass_R_senna_glass_0",
+          "euansenna_windshield_senna_glass_0",
+          "euansenna_bumper_R_senna_glass_0",
+          "euansenna_headlight_R_senna_glass_0",
+          "euansenna_headlight_L_senna_glass_0",
+          "euansenna_headlightglass_R_senna_glass_0",
+          "euansenna_headlightglass_L_senna_glass_0",
+          "euansenna_body_senna_glass_0",
+          "euansenna_flank_hardtop_senna_glass_0"
+        ]
+      },
+      {
+        "name": "senna_chrome",
+        "color": [
+          0.64,
+          0.64,
+          0.64,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "euansenna_door_R_senna_chrome_0",
+          "euansenna_seat_FL_stig_senna_chrome_0",
+          "euansenna_transaxle_senna_chrome_0",
+          "euansenna_engine_v8_senna_chrome_0",
+          "euansenna_wheel1paint_senna_chrome_0",
+          "euansenna_dash_senna_chrome_0",
+          "euansenna_seat_FL_senna_chrome_0",
+          "euansenna_seat_FR_senna_chrome_0",
+          "euansenna_doorpanel_L_senna_chrome_0",
+          "euansenna_bumper_R_senna_chrome_0",
+          "euansenna_doorpanel_R_senna_chrome_0",
+          "euansenna_headlight_R_senna_chrome_0",
+          "euansenna_headlight_L_senna_chrome_0",
+          "euansenna_body_senna_chrome_0",
+          "euansenna_exhaust_tip_a_senna_chrome_0",
+          "euansenna_flank_hardtop_senna_chrome_0",
+          "euansenna_wheel1paint.001_senna_chrome_0",
+          "euansenna_wheel1paint.002_senna_chrome_0",
+          "euansenna_wheel1paint.003_senna_chrome_0"
+        ]
+      },
+      {
+        "name": "senna_glass.001",
+        "color": [
+          0.8,
+          0.8,
+          0.8,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "euansenna_roof_hardtop_senna_glass.001_0"
+        ]
+      },
+      {
+        "name": "scintilla_engine",
+        "color": [
+          0.010299700791112492,
+          0.010299700791112492,
+          0.010299700791112492,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "euansenna_radhose_F_scintilla_engine_0",
+          "euansenna_radhose_FL_scintilla_engine_0",
+          "euansenna_radhose_FR_scintilla_engine_0",
+          "euansenna_radhose_M_scintilla_engine_0",
+          "euansenna_radiator_L_scintilla_engine_0",
+          "euansenna_exhaust_turbo_scintilla_engine_0",
+          "euansenna_battery_scintilla_engine_0",
+          "euansenna_radiator_R_scintilla_engine_0",
+          "euansenna_intercooler_R_scintilla_engine_0",
+          "euansenna_chargepipe_R_scintilla_engine_0",
+          "euansenna_intake_pipe_turbo_scintilla_engine_0",
+          "euansenna_downpipe_turbo_scintilla_engine_0",
+          "euansenna_intercooler_L_scintilla_engine_0",
+          "euansenna_header_turbo_scintilla_engine_0",
+          "euansenna_chargepipe_L_scintilla_engine_0",
+          "euansenna_turbo_scintilla_engine_0",
+          "euansenna_halfshaft_FR_scintilla_engine_0",
+          "euansenna_halfshaft_RR_scintilla_engine_0",
+          "euansenna_transfercase_scintilla_engine_0",
+          "euansenna_diff_F_scintilla_engine_0",
+          "euansenna_halfshaft_RL_scintilla_engine_0",
+          "euansenna_halfshaft_FL_scintilla_engine_0",
+          "euansenna_driveshaft_scintilla_engine_0"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gtr",
+    "materials": [
+      {
+        "name": "r35_taillight_2017",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": true,
+        "emissiveMap": false,
+        "parts": [
+          "r35_taillight_L_2017_r35_taillight_2017_0",
+          "r35_taillight_R_2017_r35_taillight_2017_0"
+        ]
+      },
+      {
+        "name": "r35_signal_R_2017",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": true,
+        "emissiveMap": false,
+        "parts": [
+          "r35_taillight_L_2017_r35_signal_R_2017_0",
+          "r35_taillight_R_2017_r35_signal_R_2017_0"
+        ]
+      },
+      {
+        "name": "r35_lights",
+        "color": [
+          0.13163126575231088,
+          0.13163126575231088,
+          0.13163126575231088,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "r35_headlight_R_2012_r35_lights_0",
+          "r35_headlight_L_2012_r35_lights_0",
+          "r35_headlight_R_r35_lights_0"
+        ]
+      },
+      {
+        "name": "r35_highbeam",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          1,
+          1,
+          1
+        ],
+        "alpha": "OPAQUE",
+        "map": true,
+        "emissiveMap": true,
+        "parts": [
+          "r35_headlight_R_2012_r35_highbeam_0",
+          "r35_headlight_L_2012_r35_highbeam_0",
+          "r35_headlight_R_r35_highbeam_0"
+        ]
+      },
+      {
+        "name": "r35_glass",
+        "color": [
+          0.17116986915102067,
+          0.17116986915102067,
+          0.17116986915102067,
+          0.5713978866615228
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "r35_windshield_r35_glass_0",
+          "r35_sideglass_R_r35_glass_0",
+          "r35_sideglass_L_r35_glass_0",
+          "r35_headlightglass_R_r35_glass_0",
+          "r35_headlightglass_L_r35_glass_0",
+          "r35_doorglass_R_r35_glass_0",
+          "r35_doorglass_L_r35_glass_0",
+          "r35_backlight_r35_glass_0"
+        ]
+      },
+      {
+        "name": "r35_glass.001",
+        "color": [
+          0.23944218220440913,
+          0.23944218220440913,
+          0.23944218220440913,
+          0.3276200460801404
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "r35_taillightglass_R_r35_glass.001_0",
+          "r35_taillightglass_L_r35_glass.001_0"
+        ]
+      },
+      {
+        "name": "r35_headlight",
+        "color": [
+          0.8,
+          0.8,
+          0.8,
+          0
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "r35_headlight_R_r35_headlight_0"
+        ]
+      },
+      {
+        "name": "r35_signal_R",
+        "color": [
+          0.8,
+          0.8,
+          0.8,
+          0
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "r35_headlight_R_r35_signal_R_0"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "porsche",
+    "materials": [
+      {
+        "name": "LIGHTS_5",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": true,
+        "emissiveMap": false,
+        "parts": [
+          "Object_3",
+          "Object_14",
+          "Object_19"
+        ]
+      },
+      {
+        "name": "GLASS_7",
+        "color": [
+          0,
+          0,
+          0,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": true,
+        "emissiveMap": false,
+        "parts": [
+          "Object_5",
+          "Object_10",
+          "Object_21"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "audi",
+    "materials": [
+      {
+        "name": "Glass",
+        "color": [
+          1,
+          1,
+          1,
+          0.10241094625221109
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "Glass_Glass_0"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "challenger",
+    "materials": []
+  },
+  {
+    "id": "tourbillon",
+    "materials": [
+      {
+        "name": "bBugatti_Tourbillon_2026LightA_Material1",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": true,
+        "emissiveMap": false,
+        "parts": [
+          "b:Light_Geo_lodA_Light_Geo_lodA_Bugatti_Tourbillon_2026LightA_Material_b:Bugatti_Tourbillon_2026LightA_Material1_0"
+        ]
+      },
+      {
+        "name": "red_glass",
+        "color": [
+          0.5,
+          0,
+          0,
+          0.25
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "b:Window_Geo_lodA_Window_Geo_lodA_Bugatti_Tourbillon_2026Window_Material_red_glass_0"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "one77",
+    "materials": [
+      {
+        "name": "red_glass",
+        "color": [
+          0.5,
+          0,
+          0,
+          0.25
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "Aston:Window_Geo_lodA_Window_Geo_lodA_AstonMartin_One77Reward_2010Window_Material_red_glass_0"
+        ]
+      },
+      {
+        "name": "AstonAstonMartin_One77Reward_2010LightEmissiveA_Material1",
+        "color": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "Aston:LightEmissive_Geo_lodA_LightEmissive_Geo_lodA_AstonMartin_One77Reward_2010LightEmissiveA_Material_Aston:AstonMartin_One77Reward_2010LightEmissiveA_Material1_0"
+        ]
+      },
+      {
+        "name": "AstonAstonMartin_One77Reward_2010LightA_Material1",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": true,
+        "emissiveMap": false,
+        "parts": [
+          "Aston:Light_Geo_lodA_Light_Geo_lodA_AstonMartin_One77Reward_2010LightA_Material_Aston:AstonMartin_One77Reward_2010LightA_Material1_0"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ghost",
+    "materials": [
+      {
+        "name": "rrghost_main",
+        "color": [
+          0.0327491,
+          0.0327491,
+          0.0327491,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_needle_speedo_rrghost_main_0",
+          "rrghost_needle_tacho_rrghost_main_0",
+          "rrghost_engine_rrghost_main_0",
+          "rrghost_exhausttip_R_b_rrghost_main_0",
+          "rrghost_exhausttip_L_b_rrghost_main_0",
+          "rrghost_exhausttip_L_rrghost_main_0",
+          "rrghost_fender_L_rrghost_main_0",
+          "rrghost_bumper_F_rrghost_main_0",
+          "rrghost_exhausttip_R_rrghost_main_0",
+          "rrghost_dash_rrghost_main_0",
+          "rrghost_dash_rrghost_main_0",
+          "rrghost_trunk_b_rrghost_main_0",
+          "rrghost_headlight_L_rrghost_main_0",
+          "rrghost_taillight_R_rrghost_main_0",
+          "rrghost_seats_R_rrghost_main_0",
+          "rrghost_hood_rrghost_main_0",
+          "rrghost_door_FL_rrghost_main_0",
+          "rrghost_door_RL_rrghost_main_0",
+          "rrghost_door_FR_rrghost_main_0",
+          "rrghost_door_RR_rrghost_main_0",
+          "rrghost_sunroof_rrghost_main_0",
+          "rrghost_headlight_R_rrghost_main_0",
+          "rrghost_mirror_R_rrghost_main_0",
+          "rrghost_wipers_rrghost_main_0",
+          "rrghost_taillight_L_rrghost_main_0",
+          "rrghost_seat_FR_rrghost_main_0",
+          "rrghost_seat_FL_rrghost_main_0",
+          "rrghost_grille_b_rrghost_main_0",
+          "rrghost_body_rrghost_main_0"
+        ]
+      },
+      {
+        "name": "rrghost_off",
+        "color": [
+          0.8,
+          0.8,
+          0.8,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_fender_L_rrghost_off_0",
+          "rrghost_trunk_b_rrghost_off_0",
+          "rrghost_headlightglass_L_rrghost_off_0",
+          "rrghost_headlightglass_R_rrghost_off_0",
+          "rrghost_fender_R_b_rrghost_off_0"
+        ]
+      },
+      {
+        "name": "rrghost_glass",
+        "color": [
+          0.0422443,
+          0.0422443,
+          0.0422443,
+          0.9188599431922078
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_fender_L_rrghost_glass_0",
+          "rrghost_bumper_F_rrghost_glass_0",
+          "rrghost_dash_rrghost_glass_0",
+          "rrghost_headlightglass_L_rrghost_glass_0",
+          "rrghost_headlightglass_R_rrghost_glass_0",
+          "rrghost_taillightglass_L_rrghost_glass_0",
+          "rrghost_taillightglass_R_rrghost_glass_0",
+          "rrghost_seats_R_rrghost_glass_0",
+          "rrghost_doorglass_FL_rrghost_glass_0",
+          "rrghost_doorglass_RL_rrghost_glass_0",
+          "rrghost_doorglass_FR_rrghost_glass_0",
+          "rrghost_doorglass_RR_rrghost_glass_0",
+          "rrghost_backlight_rrghost_glass_0",
+          "rrghost_sideglass_L_rrghost_glass_0",
+          "rrghost_sideglass_R_rrghost_glass_0",
+          "rrghost_sunroof_rrghost_glass_0",
+          "rrghost_fender_R_b_rrghost_glass_0",
+          "rrghost_body_rrghost_glass_0"
+        ]
+      },
+      {
+        "name": "rrghost_signal_L",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_bumper_F_rrghost_signal_L_0",
+          "rrghost_taillight_R_rrghost_signal_L_0",
+          "rrghost_taillight_L_rrghost_signal_L_0"
+        ]
+      },
+      {
+        "name": "rrghost_runninglight_b",
+        "color": [
+          0.8,
+          0.8,
+          0.8,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_bumper_F_rrghost_runninglight_b_0"
+        ]
+      },
+      {
+        "name": "rrghost_leatherlight",
+        "color": [
+          0.0845759,
+          0,
+          0.0919029,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_dash_rrghost_leatherlight_0",
+          "rrghost_seats_R_rrghost_leatherlight_0",
+          "rrghost_door_FL_rrghost_leatherlight_0",
+          "rrghost_door_RL_rrghost_leatherlight_0",
+          "rrghost_door_FR_rrghost_leatherlight_0",
+          "rrghost_door_RR_rrghost_leatherlight_0",
+          "rrghost_seat_FR_rrghost_leatherlight_0",
+          "rrghost_seat_FL_rrghost_leatherlight_0",
+          "rrghost_body_rrghost_leatherlight_0"
+        ]
+      },
+      {
+        "name": "rrghost_lights",
+        "color": [
+          0.0464419,
+          0.0464419,
+          0.0464419,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_headlight_L_rrghost_lights_0",
+          "rrghost_taillight_R_rrghost_lights_0",
+          "rrghost_headlight_R_rrghost_lights_0",
+          "rrghost_taillight_L_rrghost_lights_0"
+        ]
+      },
+      {
+        "name": "rrghost_runninglight",
+        "color": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "emissive": [
+          1,
+          1,
+          1
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_headlight_L_rrghost_runninglight_0",
+          "rrghost_headlight_R_rrghost_runninglight_0"
+        ]
+      },
+      {
+        "name": "rrghost_reverselight",
+        "color": [
+          0.800266,
+          0.800266,
+          0.800266,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_taillight_R_rrghost_reverselight_0",
+          "rrghost_taillight_L_rrghost_reverselight_0"
+        ]
+      },
+      {
+        "name": "rrghost_headlight",
+        "color": [
+          0.8,
+          0.8,
+          0.8,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_headlightglass_L_rrghost_headlight_0",
+          "rrghost_headlightglass_R_rrghost_headlight_0"
+        ]
+      },
+      {
+        "name": "rrghost_glass_b",
+        "color": [
+          0.19360000000000002,
+          0,
+          0.00038329999999999723,
+          0.778669039753264
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_taillightglass_L_rrghost_glass_b_0",
+          "rrghost_taillightglass_R_rrghost_glass_b_0"
+        ]
+      },
+      {
+        "name": "rrghost_taillight",
+        "color": [
+          0.8002660000000001,
+          0.003089400000000003,
+          0,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_taillightglass_L_rrghost_taillight_0",
+          "rrghost_taillightglass_R_rrghost_taillight_0"
+        ]
+      },
+      {
+        "name": "vehicle_generic_glasswindows2",
+        "color": [
+          0.7076012526892669,
+          0.7076012526892669,
+          0.7076012526892669,
+          0.8152405797808145
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "BLEND",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_windshield_vehicle_generic_glasswindows2_0"
+        ]
+      },
+      {
+        "name": "rrghost_detail",
+        "color": [
+          0.8,
+          0.8,
+          0.8,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_body_rrghost_detail_0"
+        ]
+      },
+      {
+        "name": "rrghost_taillight_b",
+        "color": [
+          0.8,
+          0.8,
+          0.8,
+          1
+        ],
+        "emissive": [
+          0,
+          0,
+          0
+        ],
+        "alpha": "OPAQUE",
+        "map": false,
+        "emissiveMap": false,
+        "parts": [
+          "rrghost_body_rrghost_taillight_b_0"
+        ]
+      }
+    ]
+  }
+]

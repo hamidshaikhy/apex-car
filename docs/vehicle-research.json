@@ -1,0 +1,294 @@
+{
+  "checkedOn": "2026-11-02",
+  "vehicles": [
+    {
+      "slug": "lamborghini-revuelto",
+      "name": "Lamborghini Revuelto",
+      "year": 2024,
+      "market": "Global manufacturer specification",
+      "engine": "6.5-litre naturally aspirated V12 + three electric motors",
+      "displacementCc": 6498.5,
+      "power": {
+        "systemCv": 1015,
+        "systemKw": 747,
+        "iceCv": 825,
+        "iceRpm": 9250
+      },
+      "torque": {
+        "nm": 725,
+        "rpm": 6750,
+        "basis": "Internal-combustion engine only; not total hybrid-system torque"
+      },
+      "acceleration": {
+        "zeroTo100KmhSeconds": 2.5
+      },
+      "topSpeed": {
+        "kmh": 350,
+        "qualifier": "greater than"
+      },
+      "transmission": "8-speed dual-clutch automated transmission",
+      "drivetrain": "Electrified all-wheel drive",
+      "fuel": "Petrol plug-in hybrid",
+      "weight": {
+        "kg": 1772,
+        "basis": "Dry weight, manufacturer brochure"
+      },
+      "dimensions": {
+        "lengthMm": 4947,
+        "widthWithoutMirrorsMm": 2033,
+        "widthWithMirrorsMm": 2266,
+        "heightMm": 1160,
+        "wheelbaseMm": 2779
+      },
+      "seats": 2,
+      "brakes": {
+        "frontDiscMm": 410,
+        "rearDiscMm": 390,
+        "material": "Carbon ceramic",
+        "frontCaliperPistons": 10,
+        "rearCaliperPistons": 4
+      },
+      "tyres": {
+        "front": "265/35 ZR20",
+        "rear": "345/30 ZR21"
+      },
+      "chassis": "Carbon-fibre monocoque; front Forged Composites structure",
+      "suspension": "Front and rear double wishbone, Lamborghini MagneRide dampers",
+      "sources": [
+        {
+          "title": "Lamborghini official model page",
+          "url": "https://www.lamborghini.com/en-en/models/revuelto-models/revuelto",
+          "supports": "Combined CV/kW, top speed and 0–100 km/h"
+        },
+        {
+          "title": "Lamborghini official 2024 digital brochure, printed pages 30–31",
+          "url": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/revuelto/2024/brochure/REVUELTO_DIGITAL_BROCHURE_EN_2024.pdf",
+          "supports": "Engine, torque basis, transmission, chassis, brakes, dimensions and dry weight"
+        }
+      ]
+    },
+    {
+      "slug": "ford-mustang-shelby-gt500",
+      "name": "Ford Mustang Shelby GT500",
+      "year": 2020,
+      "market": "US, S550 2020–22 generation",
+      "engine": "5.2-litre supercharged 90-degree cross-plane V8",
+      "displacementCc": 5163,
+      "power": {
+        "saeHp": 760,
+        "kw": 567,
+        "rpm": 7300
+      },
+      "torque": {
+        "nm": 847,
+        "lbFt": 625,
+        "rpm": 5000
+      },
+      "redlineRpm": 7500,
+      "compressionRatio": "9.5:1",
+      "acceleration": {
+        "zeroTo100KmhSeconds": null,
+        "zeroTo60MphSeconds": 3.3,
+        "basis": "Ford claim as attributed by Car and Driver; no primary exact 0–100 km/h retrieved"
+      },
+      "topSpeed": {
+        "kmh": 290,
+        "mph": 180,
+        "qualifier": "electronically limited"
+      },
+      "transmission": "TREMEC TR-9070 7-speed dual-clutch automatic",
+      "drivetrain": "Rear-wheel drive; 3.73:1 TORSEN differential",
+      "fuel": "Premium petrol",
+      "weight": {
+        "lb": 4171,
+        "kgApprox": 1892,
+        "basis": "US curb weight, standard GT500; Carbon Fiber Track Package differs"
+      },
+      "dimensions": {
+        "lengthIn": 189.5,
+        "widthWithoutMirrorsIn": 76.6,
+        "widthWithMirrorsIn": 81.9,
+        "heightIn": 54.3,
+        "wheelbaseIn": 107.1,
+        "lengthMmApprox": 4813,
+        "widthMmApprox": 1946,
+        "heightMmApprox": 1379,
+        "wheelbaseMmApprox": 2720
+      },
+      "seats": 4,
+      "seatNote": "Carbon Fiber Track Package deletes rear seats",
+      "brakes": {
+        "frontDiscMm": 420,
+        "rearDiscMm": 370,
+        "frontCaliperPistons": 6,
+        "rearCaliperPistons": 4,
+        "brand": "Brembo"
+      },
+      "suspension": "Double-ball-joint MacPherson strut front; independent integral-link rear; MagneRide adaptive damping",
+      "chassis": "Unitized steel, front-engine architecture",
+      "sources": [
+        {
+          "title": "Ford official 2020 Mustang technical specification",
+          "url": "https://media.ford.com/content/dam/fordmedia/North%20America/US/product/2020/mustang/2020-Mustang-Tech_Specs.pdf",
+          "supports": "Power, torque, drivetrain, gearbox, dimensions, curb weight and brakes"
+        },
+        {
+          "title": "Ford official 2020 Shelby GT500 owner supplement, printed pages 63–65",
+          "url": "https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/2020-Ford-Mustang-Shelby-GT500-Supplement-version-2_su_EN-US_03_2020.pdf",
+          "supports": "5163cc, 760hp/567kW,847Nm,redline,top speed,brakes,suspension"
+        },
+        {
+          "title": "Car and Driver report attributing 0–60mph 3.3s to Ford",
+          "url": "https://www.caranddriver.com/news/a29569947/ford-mustang-shelby-gt500-performance/",
+          "supports": "Only source here that is secondary: Ford-claimed 0–60 mph 3.3s; quarter-mile 10.7s"
+        }
+      ]
+    },
+    {
+      "slug": "mercedes-amg-gt",
+      "name": "Mercedes-AMG GT",
+      "year": 2016,
+      "market": "European launch specification, base C190 pre-facelift",
+      "engine": "4.0-litre twin-turbo hot-V V8 with dry-sump lubrication (M178)",
+      "displacementCc": 3982,
+      "power": {
+        "metricPs": 462,
+        "kw": 340,
+        "rpm": 6000,
+        "saeHpEquivalent": 456
+      },
+      "torque": {
+        "nm": 600,
+        "rpm": "1600–5000"
+      },
+      "acceleration": {
+        "zeroTo100KmhSeconds": 4.0
+      },
+      "topSpeed": {
+        "kmh": 304,
+        "qualifier": "electronically limited"
+      },
+      "transmission": "AMG SPEEDSHIFT DCT 7-speed dual-clutch rear transaxle",
+      "drivetrain": "Rear-wheel drive; mechanical limited-slip differential",
+      "fuel": "Petrol",
+      "weight": {
+        "kg": 1540,
+        "basis": "DIN running order: 90% fuel, no driver or luggage",
+        "euKg": 1615,
+        "euBasis": "EU running order adds 68kg driver + 7kg luggage"
+      },
+      "dimensions": {
+        "lengthMm": null,
+        "widthWithoutMirrorsMm": null,
+        "heightMm": null,
+        "wheelbaseMm": null,
+        "note": "Commonly quoted launch dimensions 4546/1939/1288mm and2630mm wheelbase; not verified from accessible primary source. Omit or mark pending."
+      },
+      "seats": 2,
+      "luggageLitres": 350,
+      "brakes": {
+        "frontDiscMm": 360,
+        "rearDiscMm": 360,
+        "material": "Ventilated, perforated composite discs",
+        "optionalCarbonCeramic": "402mm front / 360mm rear"
+      },
+      "tyres": {
+        "front": "255/35 R19",
+        "rear": "295/35 R19"
+      },
+      "wheels": {
+        "frontIn": 19,
+        "rearIn": 19
+      },
+      "chassis": "Aluminium spaceframe; magnesium bonnet, steel boot lid",
+      "suspension": "Double wishbone aluminium sport suspension",
+      "weightDistribution": "47% front / 53% rear",
+      "sources": [
+        {
+          "title": "Mercedes-Benz official 2014 launch release, base GT and GT S distinguished",
+          "url": "https://media.mercedes-benz.nl/nieuwe-mercedes-amg-gt--driving-performance-voor-sportwagenliefhebbers/",
+          "supports": "Engine, torque, PS/kW, acceleration, speed, weights with exact basis, drivetrain, gearbox, suspension, tyres and brakes"
+        },
+        {
+          "title": "Mercedes-Benz USA 2016/17 quick reference",
+          "url": "https://media.mbusa.com/news/my2016-mercedes-amg-gt-gt-s-quick-reference-guide",
+          "supports": "Base US GT was MY2017, arriving mid2016;456SAEhp,443lb-ft;avoid calling EU2016 a US MY2016"
+        }
+      ]
+    },
+    {
+      "slug": "bmw-m4-csl",
+      "name": "BMW M4 CSL",
+      "year": 2023,
+      "market": "European / German technical specification, limited edition G82",
+      "engine": "3.0-litre twin-turbo inline-six, M TwinPower Turbo",
+      "displacementCc": 2993,
+      "power": {
+        "metricPs": 550,
+        "kw": 405,
+        "rpm": 6250
+      },
+      "torque": {
+        "nm": 650,
+        "rpm": "2750–5950"
+      },
+      "compressionRatio": "9.3:1",
+      "acceleration": {
+        "zeroTo100KmhSeconds": 3.7,
+        "zeroTo200KmhSeconds": 10.7
+      },
+      "topSpeed": {
+        "kmh": 307,
+        "qualifier": "electronically limited"
+      },
+      "transmission": "8-speed M Steptronic with Drivelogic",
+      "drivetrain": "Rear-wheel drive; Active M Differential",
+      "fuel": "Petrol RON98 recommended (minRON95)",
+      "weight": {
+        "kg": 1625,
+        "basis": "DIN kerb weight",
+        "euKg": 1700,
+        "euBasis": "EU unladen weight"
+      },
+      "dimensions": {
+        "lengthMm": 4794,
+        "widthWithoutMirrorsMm": 1921,
+        "widthWithMirrorsMm": 2081,
+        "heightMm": 1386,
+        "wheelbaseMm": 2857,
+        "groundClearanceMm": 113
+      },
+      "seats": 2,
+      "fuelTankLitres": 59,
+      "luggageLitres": 440,
+      "brakes": {
+        "material": "M Carbon ceramic",
+        "frontCaliperPistons": 6,
+        "rearCaliperPistons": 1
+      },
+      "tyres": {
+        "front": "275/35 ZR19",
+        "rear": "285/30 ZR20"
+      },
+      "suspension": "Adaptive M suspension; double-joint spring-strut front axle, five-link rear;8mm lower than Competition",
+      "production": "Limited to1000 examples worldwide",
+      "sources": [
+        {
+          "title": "BMW official global technical data",
+          "url": "https://www.press.bmwgroup.com/global/article/attachment/T0386533EN/613138",
+          "supports": "All exact specification fields including dimensions,weight basis,engine,gearbox,brakes,tyres,acceleration,speed"
+        },
+        {
+          "title": "BMW official global launch press kit",
+          "url": "https://www.press.bmwgroup.com/global/article/attachment/T0386533EN/613141",
+          "supports": "Launch date,1000-car run,engineering,performance"
+        },
+        {
+          "title": "BMW official US model year announcement",
+          "url": "https://www.press.bmwgroup.com/usa/article/detail/T0392153EN_US/the-bmw-m4-csl",
+          "supports": "2023model year;US output units differ,543SAEhp rather than550metricPS"
+        }
+      ]
+    }
+  ]
+}

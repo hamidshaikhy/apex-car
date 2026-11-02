@@ -1,0 +1,1303 @@
+[
+  {
+    "id": "revuelto",
+    "brand": "Lamborghini",
+    "model": "Revuelto",
+    "shortName": "Revuelto",
+    "name": "Lamborghini Revuelto",
+    "tag": "آینده، با ضربان یک V12",
+    "year": 2024,
+    "price": 589000,
+    "mileage": "1,200 کیلومتر",
+    "colorName": "نارنجی آرانچو",
+    "accent": "#f27838",
+    "power": {
+      "value": "1,015",
+      "unit": "CV",
+      "sortValue": 1001
+    },
+    "acceleration": {
+      "value": "2.5",
+      "label": "0 تا 100 km/h"
+    },
+    "topSpeed": {
+      "value": ">350",
+      "unit": "km/h"
+    },
+    "weight": "1,772 kg (dry)",
+    "engine": "6.5 لیتری V12 + سه موتور برقی",
+    "transmissionShort": "8 سرعته دوکلاچه",
+    "drivetrain": "چهارچرخ هیبریدی",
+    "headline": "آینده، با ضربان یک V12",
+    "storyTitle": "فصل تازه‌ای از هیجان ایتالیایی",
+    "description": "یک V12 تنفس طبیعی در کنار سه موتور برقی؛ Revuelto قدرت 1015 CV را در معماری کربنی جای می‌دهد. پاسخ سریع سامانهٔ هیبریدی، با همان شخصیت پرشور Lamborghini همراه شده است.",
+    "highlights": ["هیبرید پلاگین V12", "مونوکوک فیبر کربن", "چهارچرخ محرک الکتریکی"],
+    "modelFile": "hd/revuelto.glb",
+    "paintMaterials": [
+      "Material.071",
+      "Material.072",
+      "Material.073",
+      "MAT_CarpaintMain",
+      "CRBN_CRBN"
+    ],
+    "modelAuthor": "SDC PERFORMANCE",
+    "modelSource": "https://sketchfab.com/3d-models/revuelto-30tm-669d08892c9048e0897b053ab3f8e251",
+    "colors": [
+      {
+        "name": "نارنجی آرانچو",
+        "hex": "#f77722"
+      },
+      {
+        "name": "سبز ورده",
+        "hex": "#70bb27"
+      },
+      {
+        "name": "مشکی نرو",
+        "hex": "#171a1c"
+      }
+    ],
+    "image": "assets/editorial/revuelto-hero.webp",
+    "sources": [
+      {
+        "title": "مشخصات و مستندات Lamborghini",
+        "url": "https://www.lamborghini.com/en-en/models/revuelto-models/revuelto"
+      },
+      {
+        "title": "مشخصات و مستندات Lamborghini",
+        "url": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/revuelto/2024/brochure/REVUELTO_DIGITAL_BROCHURE_EN_2024.pdf"
+      }
+    ],
+    "specNote": "مشخصات جهانی مدل 2024. CV اسب‌بخار متریک است. گشتاور 725 نیوتن‌متر فقط به V12 مربوط می‌شود و گشتاور کل سامانهٔ هیبریدی نیست. وزن به حالت خشک اشاره دارد.",
+    "specs": [
+      {
+        "title": "پیشرانه و عملکرد",
+        "items": [
+          ["پیشرانه", "V12 تنفس طبیعی 6.5 لیتری + سه موتور برقی"],
+          ["حجم موتور", "6,498.5 سی‌سی"],
+          ["بیشینهٔ توان", "1,015 CV"],
+          ["بیشینهٔ گشتاور", "725 نیوتن‌متر؛ فقط V12"],
+          ["شتاب", "2.5 s · 0–100 KM/H"],
+          ["بیشینهٔ سرعت", ">350 کیلومتر/ساعت"],
+          ["سوخت", "بنزینی پلاگین‌هیبرید"]
+        ]
+      },
+      {
+        "title": "انتقال قدرت و شاسی",
+        "items": [
+          ["گیربکس", "گیربکس دوکلاچهٔ 8 سرعته"],
+          ["محور محرک", "چهارچرخ محرک الکتریکی"],
+          ["تعلیق", "جناغی دوبل جلو و عقب با دمپرهای MagneRide"],
+          ["سازه", "مونوکوک کربنی؛ بخش جلوی Forged Composites"]
+        ]
+      },
+      {
+        "title": "ابعاد و وزن",
+        "items": [
+          ["وزن", "1,772 کیلوگرم (dry)"],
+          ["تعداد صندلی", "2"],
+          ["طول", "4,947 میلی‌متر"],
+          ["عرض بدون آینه", "2,033 میلی‌متر"],
+          ["ارتفاع", "1,160 میلی‌متر"],
+          ["فاصلهٔ محوری", "2,779 میلی‌متر"]
+        ]
+      },
+      {
+        "title": "ترمز و چرخ‌ها",
+        "items": [
+          ["جنس ترمز", "کربن‌سرامیک"],
+          ["قطر دیسک جلو", "410 میلی‌متر"],
+          ["قطر دیسک عقب", "390 میلی‌متر"],
+          ["لاستیک جلو", "265/35 ZR20"],
+          ["لاستیک عقب", "345/30 ZR21"]
+        ]
+      }
+    ],
+    "englishName": "Lamborghini Revuelto",
+    "englishBrand": "Lamborghini",
+    "modelLicense": "CC BY 4.0"
+  },
+  {
+    "id": "mustang",
+    "brand": "Ford",
+    "model": "Mustang Shelby GT500",
+    "shortName": "Shelby GT500",
+    "name": "Ford Mustang Shelby GT500",
+    "tag": "صدایی که پیش از رسیدن شنیده می‌شود",
+    "year": 2020,
+    "price": 109500,
+    "mileage": "8,400 کیلومتر",
+    "colorName": "آبی پرفورمنس",
+    "accent": "#528db6",
+    "power": {
+      "value": "760",
+      "unit": "SAE hp",
+      "sortValue": 760
+    },
+    "acceleration": {
+      "value": "3.3",
+      "label": "0 تا 60 mph*"
+    },
+    "topSpeed": {
+      "value": "290",
+      "unit": "km/h"
+    },
+    "weight": "≈1,892 kg (US curb)",
+    "engine": "5.2 لیتری V8 سوپرشارژ",
+    "transmissionShort": "7 سرعته دوکلاچه",
+    "drivetrain": "محور عقب",
+    "headline": "صدایی که پیش از رسیدن شنیده می‌شود",
+    "storyTitle": "عضلانی، با دقت یک Shelby",
+    "description": "پیشرانهٔ دست‌ساز 5.2 لیتری سوپرشارژ، 760 اسب‌بخار SAE را از مسیر گیربکس دوکلاچهٔ TREMEC به چرخ‌های عقب می‌رساند. ترمزهای Brembo و دمپرهای MagneRide، قدرت GT500 را قابل‌کنترل می‌کنند.",
+    "highlights": ["پیشرانهٔ V8 سوپرشارژ", "دمپرهای MagneRide", "ترمزهای Brembo"],
+    "modelFile": "hd/mustang.glb",
+    "paintMaterials": ["carpaint"],
+    "modelAuthor": "Jiaxing",
+    "modelSource": "https://sketchfab.com/3d-models/ford-mustang-shelby-gt500-0eaa7a16796540f29461ddae05ecdeb3",
+    "colors": [
+      {
+        "name": "آبی پرفورمنس",
+        "hex": "#136cb8"
+      },
+      {
+        "name": "قرمز مسابقه‌ای",
+        "hex": "#b51b22"
+      },
+      {
+        "name": "سفید آکسFord",
+        "hex": "#181b21"
+      }
+    ],
+    "image": "assets/editorial/mustang-hero.webp",
+    "sources": [
+      {
+        "title": "مشخصات و مستندات Ford",
+        "url": "https://media.ford.com/content/dam/fordmedia/North%20America/US/product/2020/mustang/2020-Mustang-Tech_Specs.pdf"
+      },
+      {
+        "title": "مشخصات و مستندات Ford",
+        "url": "https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/2020-Ford-Mustang-Shelby-GT500-Supplement-version-2_su_EN-US_03_2020.pdf"
+      },
+      {
+        "title": "منبع داده‌های عملکرد",
+        "url": "https://www.caranddriver.com/news/a29569947/ford-mustang-shelby-gt500-performance/"
+      }
+    ],
+    "specNote": "مشخصات آمریکایی Shelby GT500 نسل S550 مدل 2020. توان بر مبنای SAE است. عدد 3.3 ثانیه مربوط به صفر تا 60 مایل و ادعای Ford در گزارش Car and Driver است؛ نباید با صفر تا صد کیلومتر یکسان در نظر گرفته شود. وزن از نوع curb آمریکا است.",
+    "specs": [
+      {
+        "title": "پیشرانه و عملکرد",
+        "items": [
+          ["پیشرانه", "V8 سوپرشارژ 5.2 لیتری با زاویهٔ 90 درجه و میل‌لنگ cross-plane"],
+          ["حجم موتور", "5,163 سی‌سی"],
+          ["بیشینهٔ توان", "760 SAE hp"],
+          ["بیشینهٔ گشتاور", "847 نیوتن‌متر"],
+          ["شتاب", "3.3 s · 0–60 MPH*"],
+          ["بیشینهٔ سرعت", "290 کیلومتر/ساعت"],
+          ["سوخت", "بنزین سوپر"]
+        ]
+      },
+      {
+        "title": "انتقال قدرت و شاسی",
+        "items": [
+          ["گیربکس", "دوکلاچهٔ 7 سرعتهٔ TREMEC TR-9070"],
+          ["محور محرک", "محور عقب؛ دیفرانسیل TORSEN با نسبت 3.73:1"],
+          ["تعلیق", "مک‌فرسون دواتصالی جلو؛ عقب مستقل integral-link با دمپر تطبیقی MagneRide"],
+          ["سازه", "بدنهٔ یکپارچهٔ فولادی با آرایش موتور جلو"]
+        ]
+      },
+      {
+        "title": "ابعاد و وزن",
+        "items": [
+          ["وزن", "حدود 1,892 کیلوگرم (US curb)"],
+          ["تعداد صندلی", "4"],
+          ["طول تقریبی", "4,813 میلی‌متر"],
+          ["عرض تقریبی بدون آینه", "1,946 میلی‌متر"],
+          ["ارتفاع تقریبی", "1,379 میلی‌متر"],
+          ["فاصلهٔ محوری تقریبی", "2,720 میلی‌متر"]
+        ]
+      },
+      {
+        "title": "ترمز و چرخ‌ها",
+        "items": [
+          ["سازندهٔ ترمز", "Brembo"],
+          ["قطر دیسک جلو", "420 میلی‌متر"],
+          ["قطر دیسک عقب", "370 میلی‌متر"]
+        ]
+      }
+    ],
+    "englishName": "Ford Mustang Shelby GT500",
+    "englishBrand": "Ford",
+    "modelLicense": "CC BY 4.0"
+  },
+  {
+    "id": "amg",
+    "brand": "Mercedes-Benz",
+    "model": "AMG GT S",
+    "shortName": "AMG GT S",
+    "name": "Mercedes-AMG GT S",
+    "tag": "کاپوتی بلند؛ شخصیتی ماندگار",
+    "year": 2016,
+    "price": 89500,
+    "mileage": "18,600 کیلومتر",
+    "colorName": "نقره‌ای ایریدیوم",
+    "accent": "#b9bfc0",
+    "power": {
+      "value": "510",
+      "unit": "PS",
+      "sortValue": 503
+    },
+    "acceleration": {
+      "value": "3.8",
+      "label": "0 تا 100 km/h"
+    },
+    "topSpeed": {
+      "value": "310",
+      "unit": "km/h"
+    },
+    "weight": "1,570 kg (DIN)",
+    "engine": "4.0 لیتری V8 توئین‌توربو",
+    "transmissionShort": "7 سرعته دوکلاچه",
+    "drivetrain": "محور عقب",
+    "headline": "کاپوتی بلند؛ شخصیتی ماندگار",
+    "storyTitle": "یک گرندتورر با قلب مسابقه",
+    "description": "GT S نسل C190 یک V8 دست‌ساز با روغن‌کاری کارتل خشک را به گیربکس دوکلاچهٔ محور عقب متصل می‌کند. شاسی آلومینیومی، دیفرانسیل الکترونیکی و تعلیق تطبیقی، فرم کشیدهٔ خودرو را به تجربه‌ای دقیق تبدیل می‌کنند.",
+    "highlights": ["پیشرانهٔ دست‌ساز M178", "شاسی آلومینیومی", "آرایش ترنس‌اکسل عقب"],
+    "modelFile": "hd/amg.glb",
+    "paintMaterials": ["マテリアル.029", "マテリアル.030", "マテリアル.024", "マテリアル.300"],
+    "modelAuthor": "GabrielPedroza",
+    "modelSource": "https://github.com/GabrielPedroza/Mercedes-AMG-GT-S-2016",
+    "colors": [
+      {
+        "name": "نقره‌ای ایریدیوم",
+        "hex": "#bfc3c6"
+      },
+      {
+        "name": "مشکی ابسیدین",
+        "hex": "#171a1e"
+      },
+      {
+        "name": "زرد سولاربیم",
+        "hex": "#e9a720"
+      }
+    ],
+    "image": "assets/editorial/amg-hero.webp",
+    "sources": [
+      {
+        "title": "مشخصات و مستندات Mercedes-Benz",
+        "url": "https://media.mercedes-benz.nl/nieuwe-mercedes-amg-gt--driving-performance-voor-sportwagenliefhebbers/"
+      },
+      {
+        "title": "منبع داده‌های عملکرد",
+        "url": "https://media.mbusa.com/news/my2016-mercedes-amg-gt-gt-s-quick-reference-guide"
+      }
+    ],
+    "specNote": "مشخصات اروپایی GT S نسل C190 در دورهٔ آغاز تولید، مدل 2016. PS اسب‌بخار متریک است. وزن DIN بدون راننده و بار محاسبه می‌شود؛ وزن EU این نسخه 1645 کیلوگرم است.",
+    "specs": [
+      {
+        "title": "پیشرانه و عملکرد",
+        "items": [
+          ["پیشرانه", "V8 توئین‌توربو 4.0 لیتری M178 با روغن‌کاری کارتل خشک"],
+          ["حجم موتور", "3,982 سی‌سی"],
+          ["بیشینهٔ توان", "510 PS"],
+          ["بیشینهٔ گشتاور", "650 نیوتن‌متر"],
+          ["شتاب", "3.8 s · 0–100 km/h"],
+          ["بیشینهٔ سرعت", "310 کیلومتر/ساعت"],
+          ["سوخت", "بنزین"]
+        ]
+      },
+      {
+        "title": "انتقال قدرت و شاسی",
+        "items": [
+          ["گیربکس", "7 سرعتهٔ دوکلاچه AMG SPEEDSHIFT با آرایش عقب"],
+          ["محور محرک", "محور عقب با دیفرانسیل لغزش محدود الکترونیکی"],
+          ["تعلیق", "دمپر تطبیقی AMG RIDE CONTROL؛ جناغی دوبل آلومینیومی"],
+          ["سازه", "شاسی آلومینیومی؛ کاپوت منیزیمی و درِ صندوق فولادی"]
+        ]
+      },
+      {
+        "title": "ابعاد و وزن",
+        "items": [
+          ["وزن", "1,570 کیلوگرم (DIN)"],
+          ["تعداد صندلی", "2"],
+          ["فضای بار", "350 لیتر"]
+        ]
+      },
+      {
+        "title": "ترمز و چرخ‌ها",
+        "items": [
+          ["جنس ترمز", "دیسک کامپوزیت خنک‌شونده و سوراخ‌دار"],
+          ["قطر دیسک جلو", "390 میلی‌متر"],
+          ["قطر دیسک عقب", "360 میلی‌متر"],
+          ["لاستیک جلو", "255/35 R19"],
+          ["لاستیک عقب", "295/30 R20"]
+        ]
+      }
+    ],
+    "englishName": "Mercedes-AMG GT S",
+    "englishBrand": "Mercedes-Benz",
+    "modelLicense": "MIT",
+    "glassMaterials": ["マテリアル.234", "マテリアル.212", "マテリアル.051"],
+    "rubberMaterials": ["Material_#25"]
+  },
+  {
+    "id": "bmw",
+    "brand": "BMW",
+    "model": "M4 Competition",
+    "shortName": "M4 Competition",
+    "name": "BMW M4 Competition",
+    "tag": "هر مسیر، یک دعوت تازه",
+    "year": 2021,
+    "price": 108000,
+    "mileage": "2,100 کیلومتر",
+    "colorName": "زرد سائوپائولو",
+    "accent": "#d4dc56",
+    "power": {
+      "value": "510",
+      "unit": "PS",
+      "sortValue": 503
+    },
+    "acceleration": {
+      "value": "3.9",
+      "label": "0 تا 100 km/h"
+    },
+    "topSpeed": {
+      "value": "290",
+      "unit": "km/h"
+    },
+    "weight": "1,725 kg (DIN)",
+    "engine": "3.0 لیتری شش‌سیلندر توئین‌توربو",
+    "transmissionShort": "8 سرعته خودکار",
+    "drivetrain": "محور عقب",
+    "headline": "هر مسیر، یک دعوت تازه",
+    "storyTitle": "دقتی که می‌شود حسش کرد",
+    "description": "M4 Competition محور عقب، توان 510 PS پیشرانهٔ شش‌سیلندر توئین‌توربو را با گیربکس هشت‌سرعتهٔ M Steptronic همراه می‌کند. دیفرانسیل Active M، تعلیق تطبیقی و سقف کربنی، تمرکز این کوپهٔ چهارنفره را کامل می‌کنند.",
+    "highlights": ["پیشرانهٔ M TwinPower Turbo", "دیفرانسیل Active M", "تعلیق تطبیقی M"],
+    "modelFile": "hd/bmw.glb",
+    "paintMaterials": ["Meshesbody151Mtl", "Mesheslivery1Mtl", "Mesheszx1Mtl"],
+    "modelAuthor": "SRT Performance",
+    "modelSource": "https://sketchfab.com/3d-models/bmw-m4-competition-m-package-5c0a2dafb1ad408d9fc9eeef9aee531b",
+    "colors": [
+      {
+        "name": "زرد سائوپائولو",
+        "hex": "#cbd338"
+      },
+      {
+        "name": "سفید آلپاین",
+        "hex": "#e9e9e2"
+      },
+      {
+        "name": "مشکی سافایر",
+        "hex": "#15191d"
+      }
+    ],
+    "image": "assets/editorial/bmw-hero.webp",
+    "sources": [
+      {
+        "title": "مشخصات و مستندات BMW",
+        "url": "https://www.bmw.co.id/content/dam/bmw/marketID/bmw_co_id/Brochures/pdf/spec-card-M4-Competition-20220124.pdf"
+      },
+      {
+        "title": "مشخصات و مستندات BMW",
+        "url": "https://www.press.bmwgroup.com/global/article/search?query=M4%20Competition%202020"
+      }
+    ],
+    "specNote": "مشخصات M4 Competition نسل G82 با محور عقب، مدل مرجع 2021. PS اسب‌بخار متریک و وزن از نوع DIN است. سرعت استاندارد 250 و با پکیج اختیاری M Driver برابر 290 کیلومتر/ساعت است. این نسخه CSL یا xDrive نیست.",
+    "specs": [
+      {
+        "title": "پیشرانه و عملکرد",
+        "items": [
+          ["پیشرانه", "شش‌سیلندر خطی 3.0 لیتری M TwinPower Turbo"],
+          ["حجم موتور", "2,993 سی‌سی"],
+          ["بیشینهٔ توان", "510 PS"],
+          ["بیشینهٔ گشتاور", "650 نیوتن‌متر"],
+          ["شتاب", "3.9 s · 0–100 km/h"],
+          ["بیشینهٔ سرعت", "250 km/h استاندارد؛ 290 km/h با M Driver’s Package"],
+          ["سوخت", "بنزین"]
+        ]
+      },
+      {
+        "title": "انتقال قدرت و شاسی",
+        "items": [
+          ["گیربکس", "8 سرعتهٔ M Steptronic با Drivelogic"],
+          ["محور محرک", "محور عقب با دیفرانسیل Active M"],
+          ["تعلیق", "تعلیق تطبیقی M؛ محور جلوی دواتصالی و عقب پنج‌اتصالی"],
+          ["سازه", "بدنهٔ G82 با سقف کربنی"]
+        ]
+      },
+      {
+        "title": "ابعاد و وزن",
+        "items": [
+          ["وزن", "1,725 کیلوگرم (DIN)"],
+          ["تعداد صندلی", "4"],
+          ["طول", "4,794 میلی‌متر"],
+          ["عرض بدون آینه", "1,887 میلی‌متر"],
+          ["ارتفاع", "1,393 میلی‌متر"],
+          ["فاصلهٔ محوری", "2,857 میلی‌متر"],
+          ["فضای بار", "440 لیتر"]
+        ]
+      },
+      {
+        "title": "ترمز و چرخ‌ها",
+        "items": [
+          ["جنس ترمز", "M Compound؛ کربن‌سرامیک M به‌صورت اختیاری"],
+          ["لاستیک جلو", "275/35 ZR19"],
+          ["لاستیک عقب", "285/30 ZR20"]
+        ]
+      }
+    ],
+    "englishName": "BMW M4 Competition",
+    "englishBrand": "BMW",
+    "modelLicense": "CC BY 4.0"
+  },
+  {
+    "id": "senna",
+    "brand": "McLaren",
+    "model": "Senna",
+    "shortName": "Senna",
+    "name": "McLaren Senna",
+    "englishName": "McLaren Senna",
+    "englishBrand": "McLaren",
+    "tag": "ساخته‌شده برای خط مسابقه",
+    "year": 2019,
+    "price": 1450000,
+    "mileage": "1,200 کیلومتر",
+    "colorName": "بنفش آمیتیست",
+    "accent": "#663b96",
+    "power": {
+      "value": "800",
+      "unit": "PS",
+      "sortValue": 800
+    },
+    "acceleration": {
+      "value": "2.8",
+      "label": "0 تا 100 km/h"
+    },
+    "topSpeed": {
+      "value": "335",
+      "unit": "km/h"
+    },
+    "weight": "1,198 kg (dry)",
+    "engine": "4.0 لیتری V8 توئین‌توربو",
+    "transmissionShort": "7 سرعته SSG",
+    "drivetrain": "محور عقب",
+    "headline": "ساخته‌شده برای خط مسابقه",
+    "storyTitle": "نام یک افسانه؛ روح یک خودروی مسابقه‌ای",
+    "description": "Senna با پیشرانهٔ V8 توئین‌توربو، سازهٔ کربنی و آیرودینامیک فعال، تجربه‌ای نزدیک به پیست را به جاده می‌آورد. هر خط روی بدنه و هر گرم از ساختارش، برای درگیری بیشتر راننده با مسیر شکل گرفته است.",
+    "highlights": [
+      "مونوکوک کربنی Monocage III",
+      "آیرودینامیک فعال",
+      "تعلیق RaceActive Chassis Control II"
+    ],
+    "modelFile": "hd/senna.glb",
+    "paintMaterials": ["sennapaintmain", "sennapaint"],
+    "modelAuthor": "Black Snow",
+    "modelSource": "https://sketchfab.com/3d-models/mclaren-senna-free-ea3e43a6eb004853a87fe9c58422eb96",
+    "modelLicense": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "colors": [
+      {
+        "name": "بنفش آمیتیست",
+        "hex": "#663b96"
+      },
+      {
+        "name": "سفید صدفی",
+        "hex": "#e8e9e3"
+      },
+      {
+        "name": "مشکی ابسیدین",
+        "hex": "#14191d"
+      }
+    ],
+    "image": "assets/editorial/senna-hero.webp",
+    "sources": [
+      {
+        "title": "مشخصات رسمی McLaren Senna",
+        "url": "https://cars.mclaren.com/gl_en/ultimate-models/mclaren-senna"
+      }
+    ],
+    "specNote": "مشخصات Senna نسخهٔ جاده‌ای؛ توان به اسب‌بخار متریک PS و وزن به سبک‌ترین حالت خشک مربوط است. وزن آماده‌حرکت DIN برابر 1309 کیلوگرم است. مشخصات 335 کیلومتر/ساعت از صفحهٔ رسمی فعلی McLaren گرفته شده است.",
+    "specs": [
+      {
+        "title": "پیشرانه و عملکرد",
+        "items": [
+          ["پیشرانه", "V8 توئین‌توربو M840TR"],
+          ["حجم موتور", "3,994 سی‌سی"],
+          ["بیشینهٔ توان", "800 PS"],
+          ["بیشینهٔ گشتاور", "800 نیوتن‌متر"],
+          ["شتاب صفر تا صد", "2.8 ثانیه"],
+          ["بیشینهٔ سرعت", "335 کیلومتر/ساعت"]
+        ]
+      },
+      {
+        "title": "انتقال قدرت و شاسی",
+        "items": [
+          ["گیربکس", "7 سرعتهٔ Seamless Shift"],
+          ["محور محرک", "عقب؛ سامانهٔ Brake Steer"],
+          ["تعلیق", "جناغی دوبل، دمپر تطبیقی و RCC II"],
+          ["سازه", "مونوکوک فیبر کربن Monocage III"]
+        ]
+      },
+      {
+        "title": "ابعاد و وزن",
+        "items": [
+          ["وزن خشک", "1,198 کیلوگرم"],
+          ["وزن DIN", "1,309 کیلوگرم"],
+          ["تعداد صندلی", "2"]
+        ]
+      },
+      {
+        "title": "ترمز و چرخ‌ها",
+        "items": [
+          ["ترمز", "کربن‌سرامیک"],
+          ["لاستیک جلو", "245/35 R19"],
+          ["لاستیک عقب", "315/30 R20"],
+          ["توقف از سرعت 100", "29.5 متر"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gtr",
+    "brand": "Nissan",
+    "model": "GT-R Premium R35",
+    "shortName": "GT-R",
+    "name": "Nissan GT-R Premium R35",
+    "englishName": "Nissan GT-R Premium R35",
+    "englishBrand": "Nissan",
+    "tag": "گودزیلا؛ مهندسی در اوج تمرکز",
+    "year": 2017,
+    "price": 119000,
+    "mileage": "1,200 کیلومتر",
+    "colorName": "سفید صدفی",
+    "accent": "#e2e2dc",
+    "power": {
+      "value": "565",
+      "unit": "SAE hp",
+      "sortValue": 565
+    },
+    "acceleration": {
+      "value": "2.9",
+      "label": "0 تا 60 mph*"
+    },
+    "topSpeed": {
+      "value": "314",
+      "unit": "km/h"
+    },
+    "weight": "3,929 lb (US curb)",
+    "engine": "3.8 لیتری V6 توئین‌توربو",
+    "transmissionShort": "6 سرعته دوکلاچه",
+    "drivetrain": "چهارچرخ ATTESA E-TS",
+    "headline": "گودزیلا؛ مهندسی در اوج تمرکز",
+    "storyTitle": "افسانه‌ای که با هر پیچ زنده می‌شود",
+    "description": "پیشرانهٔ دست‌ساز VR38DETT در کنار سامانهٔ چهارچرخ محرک و گیربکس دوکلاچه، GT-R را به یکی از شناخته‌شده‌ترین نام‌های دنیای پرفورمنس تبدیل کرده است. اینجا قدرت با اعتمادبه‌نفس و دقت همراه می‌شود.",
+    "highlights": ["پیشرانهٔ دست‌ساز VR38DETT", "چهارچرخ محرک هوشمند", "گیربکس دوکلاچهٔ عقب"],
+    "modelFile": "hd/gtr.glb",
+    "paintMaterials": ["r35_paint"],
+    "modelAuthor": "Black Snow",
+    "modelSource": "https://sketchfab.com/3d-models/nissan-skyline-gtr-r35-7b142ea3376e4811a326256c59bbc7a2",
+    "modelLicense": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "colors": [
+      {
+        "name": "سفید صدفی",
+        "hex": "#e2e2dc"
+      },
+      {
+        "name": "آبی متالیک",
+        "hex": "#194d88"
+      },
+      {
+        "name": "مشکی ابسیدین",
+        "hex": "#14191d"
+      }
+    ],
+    "image": "assets/editorial/gtr-hero.webp",
+    "sources": [
+      {
+        "title": "پروندهٔ رسمی Nissan GT-R مدل 2017",
+        "url": "https://usa.nissannews.com/en-US/releases/us-2017-nissan-gt-r-press-kit"
+      },
+      {
+        "title": "برآورد عملکرد Car and Driver در معرفی مدل 2017",
+        "url": "https://www.caranddriver.com/reviews/a15100625/2017-nissan-gt-r-first-drive-review/"
+      }
+    ],
+    "specNote": "مشخصات نسخهٔ پریمیوم بازار آمریکا مدل 2017. توان SAE است. عدد 2.9 ثانیه برای صفر تا 60 مایل و سرعت 195 مایل/ساعت (حدود 314 کیلومتر/ساعت)، برآورد Car and Driver هستند و ادعای رسمی Nissan نیستند.",
+    "specs": [
+      {
+        "title": "پیشرانه و عملکرد",
+        "items": [
+          ["پیشرانه", "V6 توئین‌توربو VR38DETT"],
+          ["حجم موتور", "3,799 سی‌سی"],
+          ["بیشینهٔ توان", "565 SAE hp"],
+          ["گشتاور", "467 lb-ft؛ حدود 633 نیوتن‌متر"],
+          ["صفر تا 60 مایل", "2.9 ثانیه؛ برآورد C/D"],
+          ["بیشینهٔ سرعت", "حدود 314 کیلومتر/ساعت؛ برآورد C/D"]
+        ]
+      },
+      {
+        "title": "انتقال قدرت و شاسی",
+        "items": [
+          ["گیربکس", "6 سرعتهٔ دوکلاچه"],
+          ["محور محرک", "چهارچرخ ATTESA E-TS"],
+          ["تعلیق", "جناغی دوبل جلو؛ چنداتصالی عقب"],
+          ["دمپرها", "Bilstein DampTronic"]
+        ]
+      },
+      {
+        "title": "ابعاد و وزن",
+        "items": [
+          ["وزن آماده‌حرکت آمریکا", "3,929 پوند؛ حدود 1,782 کیلوگرم"],
+          ["تعداد صندلی", "4"],
+          ["طول", "185.4 in"],
+          ["عرض", "74.6 in"],
+          ["ارتفاع", "53.9 in"],
+          ["فاصلهٔ محوری", "109.4 in"]
+        ]
+      },
+      {
+        "title": "ترمز و چرخ‌ها",
+        "items": [
+          ["ترمز", "دیسک‌های خنک‌شوندهٔ Brembo"],
+          ["رینگ", "20 اینچ"],
+          ["لاستیک جلو", "255/40 ZR20"],
+          ["لاستیک عقب", "285/35 ZR20"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "porsche",
+    "brand": "Porsche",
+    "model": "911 Targa 4S",
+    "shortName": "911 Targa 4S",
+    "name": "Porsche 911 Targa 4S",
+    "englishName": "Porsche 911 Targa 4S",
+    "englishBrand": "Porsche",
+    "tag": "آسمان باز؛ اصالت همیشگی",
+    "year": 2021,
+    "price": 189000,
+    "mileage": "1,200 کیلومتر",
+    "colorName": "آبی یخی",
+    "accent": "#7fadb9",
+    "power": {
+      "value": "450",
+      "unit": "PS",
+      "sortValue": 450
+    },
+    "acceleration": {
+      "value": "3.6",
+      "label": "0 تا 100 km/h"
+    },
+    "topSpeed": {
+      "value": "304",
+      "unit": "km/h"
+    },
+    "weight": "1,675 kg (DIN)",
+    "engine": "3.0 لیتری شش‌سیلندر تخت توئین‌توربو",
+    "transmissionShort": "8 سرعته PDK",
+    "drivetrain": "چهارچرخ محرک",
+    "headline": "آسمان باز؛ اصالت همیشگی",
+    "storyTitle": "یک 911، با چشم‌اندازی متفاوت",
+    "description": "قوس آشنای تارگا، شیشهٔ یکپارچهٔ عقب و قلب شش‌سیلندر تخت، شخصیتی مستقل به این 911 می‌دهند. تارگا 4S لذت رانندگی زیر آسمان را با چسبندگی چهارچرخ محرک و دقت گیربکس PDK ترکیب می‌کند.",
+    "highlights": ["پیشرانهٔ تخت عقب", "سقف بازشوندهٔ تارگا", "PASM و Porsche Wet Mode"],
+    "modelFile": "hd/porsche.glb",
+    "paintMaterials": ["PAINT_COLOR_4"],
+    "modelAuthor": "DisneyCars",
+    "modelSource": "https://sketchfab.com/3d-models/2021-porsche-911-targa-4s-616ebc4356c74a3b8554c396eb3bd34c",
+    "modelLicense": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "colors": [
+      {
+        "name": "آبی یخی",
+        "hex": "#7fadb9"
+      },
+      {
+        "name": "سفید صدفی",
+        "hex": "#e8e9e3"
+      },
+      {
+        "name": "مشکی ابسیدین",
+        "hex": "#14191d"
+      }
+    ],
+    "image": "assets/editorial/porsche-hero.webp",
+    "sources": [
+      {
+        "title": "معرفی رسمی نسل هشتم Porsche 911 تارگا",
+        "url": "https://newsroom.porsche.com/en_US/products/porsche-911-targa-eighth-generation-20907.html"
+      },
+      {
+        "title": "مشخصات رسمی تارگا 4 و 4S",
+        "url": "https://newsroom.porsche.com/dam/jcr%3A08bcb944-e9cc-46c1-b3b9-066ddf12a8d1/S20_1665.pdf"
+      }
+    ],
+    "specNote": "مشخصات نسل 992 تارگا 4S با PDK. شتاب 3.6 ثانیه با پکیج اختیاری Sport Chrono است. توان متریک PS و وزن DIN است. فایل ارسالی، مدل تارگا 4S است؛ نه GT3 یا کاررا کوپه.",
+    "specs": [
+      {
+        "title": "پیشرانه و عملکرد",
+        "items": [
+          ["پیشرانه", "شش‌سیلندر تخت توئین‌توربو"],
+          ["حجم موتور", "2,981 سی‌سی"],
+          ["بیشینهٔ توان", "450 PS"],
+          ["بیشینهٔ گشتاور", "530 نیوتن‌متر"],
+          ["صفر تا صد", "3.6 ثانیه با Sport Chrono"],
+          ["بیشینهٔ سرعت", "304 کیلومتر/ساعت"]
+        ]
+      },
+      {
+        "title": "انتقال قدرت و شاسی",
+        "items": [
+          ["گیربکس", "8 سرعتهٔ دوکلاچه PDK"],
+          ["محور محرک", "چهارچرخ PTM"],
+          ["تعلیق", "PASM با دمپرهای الکترونیکی"],
+          ["سقف", "تارگا با مکانیزم برقی"]
+        ]
+      },
+      {
+        "title": "ابعاد و وزن",
+        "items": [
+          ["وزن DIN", "1,675 کیلوگرم"],
+          ["تعداد صندلی", "4"],
+          ["آرایش پیشرانه", "عقب"],
+          ["بدنه", "تارگا 992"]
+        ]
+      },
+      {
+        "title": "ترمز و چرخ‌ها",
+        "items": [
+          ["ترمز", "دیسک‌های خنک‌شونده"],
+          ["رینگ جلو", "20 اینچ"],
+          ["رینگ عقب", "21 اینچ"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "audi",
+    "brand": "Audi",
+    "model": "RS5 Coupe",
+    "shortName": "RS5",
+    "name": "Audi RS5 Coupe",
+    "englishName": "Audi RS5 Coupe",
+    "englishBrand": "Audi",
+    "tag": "قدرت، با امضای کواترو",
+    "year": 2018,
+    "price": 84900,
+    "mileage": "1,200 کیلومتر",
+    "colorName": "قرمز میسانو",
+    "accent": "#9a1526",
+    "power": {
+      "value": "450",
+      "unit": "PS",
+      "sortValue": 450
+    },
+    "acceleration": {
+      "value": "3.9",
+      "label": "0 تا 100 km/h"
+    },
+    "topSpeed": {
+      "value": "280",
+      "unit": "km/h"
+    },
+    "weight": "1,655 kg (DIN)",
+    "engine": "2.9 لیتری V6 توئین‌توربو",
+    "transmissionShort": "8 سرعته تیپ‌ترونیک",
+    "drivetrain": "چهارچرخ کواترو",
+    "headline": "قدرت، با امضای کواترو",
+    "storyTitle": "دقت آلمانی؛ شخصیت بی‌واسطه",
+    "description": "RS5 کوپه با V6 توئین‌توربو و گشتاور گسترده، قدرت را بی‌وقفه در اختیار راننده می‌گذارد. بدنهٔ متعادل، کواترو و گیربکس هشت‌سرعته، تجربه‌ای سریع و درعین‌حال قابل‌استفاده می‌سازند.",
+    "highlights": ["پیشرانهٔ 2.9 TFSI", "کواترو با دیفرانسیل مرکزی", "600 نیوتن‌متر گشتاور"],
+    "modelFile": "hd/audi.glb",
+    "paintMaterials": ["Paint"],
+    "modelAuthor": "WillisChiejina",
+    "modelSource": "https://sketchfab.com/3d-models/audi-rs5-75d636ab26b1423ca61ffd0fd758fd0a",
+    "modelLicense": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "colors": [
+      {
+        "name": "قرمز میسانو",
+        "hex": "#9a1526"
+      },
+      {
+        "name": "سفید صدفی",
+        "hex": "#e8e9e3"
+      },
+      {
+        "name": "مشکی ابسیدین",
+        "hex": "#14191d"
+      }
+    ],
+    "image": "assets/editorial/audi-hero.webp",
+    "sources": [
+      {
+        "title": "پروندهٔ رسمی معرفی Audi RS5 کوپه",
+        "url": "https://nieuws.audi.nl/nieuwe-audi-rs-5-coupe-nog-krachtiger-en-sneller/"
+      },
+      {
+        "title": "صفحهٔ رسمی RS5 کوپه",
+        "url": "https://www.audi.fr/fr/gamme/a5/rs-5-coupe/"
+      }
+    ],
+    "specNote": "مشخصات کوپهٔ B9 پیش از فیس‌لیفت، مدل 2018. توان متریک PS است. محدودکنندهٔ استاندارد 250 کیلومتر/ساعت است؛ عدد 280 با پکیج اختیاری ارائه می‌شود. وزن DIN با وزن EU شامل راننده یکسان نیست.",
+    "specs": [
+      {
+        "title": "پیشرانه و عملکرد",
+        "items": [
+          ["پیشرانه", "V6 توئین‌توربو TFSI"],
+          ["حجم موتور", "2,894 سی‌سی"],
+          ["بیشینهٔ توان", "450 PS"],
+          ["بیشینهٔ گشتاور", "600 نیوتن‌متر"],
+          ["صفر تا صد", "3.9 ثانیه"],
+          ["بیشینهٔ سرعت", "250؛ با پکیج اختیاری 280 کیلومتر/ساعت"]
+        ]
+      },
+      {
+        "title": "انتقال قدرت و شاسی",
+        "items": [
+          ["گیربکس", "8 سرعتهٔ تیپ‌ترونیک"],
+          ["محور محرک", "چهارچرخ کواترو"],
+          ["تعلیق", "چنداتصالی جلو و عقب"],
+          ["بدنه", "کوپهٔ دو در B9"]
+        ]
+      },
+      {
+        "title": "ابعاد و وزن",
+        "items": [
+          ["وزن DIN", "1,655 کیلوگرم"],
+          ["تعداد صندلی", "4"]
+        ]
+      },
+      {
+        "title": "ترمز و چرخ‌ها",
+        "items": [
+          ["ترمز", "دیسک‌های خنک‌شونده"],
+          ["رینگ استاندارد", "19 اینچ"],
+          ["رینگ اختیاری", "20 اینچ"]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "challenger",
+    "brand": "Dodge",
+    "model": "Challenger",
+    "shortName": "Challenger",
+    "name": "Dodge Challenger",
+    "englishName": "Dodge Challenger",
+    "englishBrand": "Dodge",
+    "tag": "یک Muscle Car تمام‌عیار",
+    "year": 2009,
+    "price": 64500,
+    "mileage": "1,200 کیلومتر",
+    "colorName": "زرشکی متالیک",
+    "accent": "#651f35",
+    "power": {
+      "value": "425",
+      "unit": "SAE hp",
+      "sortValue": 425
+    },
+    "acceleration": {
+      "value": "—",
+      "label": "0 تا 100 km/h"
+    },
+    "topSpeed": {
+      "value": "—",
+      "unit": "km/h"
+    },
+    "weight": "1,892 kg (estimated curb)",
+    "engine": "6.1 لیتری V8 HEMI تنفس طبیعی",
+    "transmissionShort": "6 سرعتهٔ دستی",
+    "drivetrain": "محور عقب",
+    "headline": "قدرت آمریکایی، با حضور بی‌رقیب",
+    "storyTitle": "شخصیتی که به چشم می‌آید",
+    "description": "Challenger نسل سوم، فرم عضلانی و چهار چراغ گرد را به معماری مدرن منتقل می‌کند. مرجع مشخصات این صفحه، نسخهٔ SRT8 مدل 2009 با موتور 6.1 لیتری HEMI است؛ مدل سه‌بعدی، جزئیات ظاهری تیونینگ‌شده دارد.",
+    "highlights": ["پیشرانهٔ V8 HEMI", "محور عقب", "گیربکس دستی TREMEC"],
+    "modelFile": "hd/challenger.glb",
+    "paintMaterials": ["01___Default", "Material__287"],
+    "modelAuthor": "Gesy",
+    "modelSource": "https://sketchfab.com/3d-models/dodge-challenger-2c1f18d2f0214cb7a746fc5dd2baeebe",
+    "modelLicense": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "colors": [
+      {
+        "name": "زرشکی متالیک",
+        "hex": "#651f35"
+      },
+      {
+        "name": "سفید صدفی",
+        "hex": "#e8e9e3"
+      },
+      {
+        "name": "مشکی ابسیدین",
+        "hex": "#14191d"
+      }
+    ],
+    "image": "assets/editorial/challenger-2009.webp",
+    "sources": [
+      {
+        "title": "Dodge — 2009 Challenger specifications",
+        "url": "https://s3.amazonaws.com/chryslermedia.iconicweb.com/mediasite/specs/2009DodgeChallengerSpecifications_Reveal.pdf"
+      }
+    ],
+    "specNote": "مشخصات مرجع، SRT8 مدل 2009 بر اساس سند رسمی Dodge است. قدرت و گشتاور در این سند برآورد SAE net و وزن برآورد curb هستند. مدل سه‌بعدی دارای تغییرات ظاهری است و تریم دقیق آن از فایل سازنده مشخص نمی‌شود. زمان شتاب و سرعت نهایی تأییدشده‌ای در این منبع درج نشده است.",
+    "specs": [
+      {
+        "title": "پیشرانه و عملکرد",
+        "items": [
+          ["پیشرانه", "6.1 لیتری HEMI V8"],
+          ["حجم موتور", "6,059 cc"],
+          ["بیشینهٔ توان", "425 SAE hp در 6,200 rpm"],
+          ["بیشینهٔ گشتاور", "569 Nm در 4,800 rpm"],
+          ["سوخت", "بنزین سوپر"]
+        ]
+      },
+      {
+        "title": "انتقال قدرت و شاسی",
+        "items": [
+          ["گیربکس", "6 سرعتهٔ دستی TREMEC TR-6060؛ 5 سرعتهٔ خودکار نیز عرضه شده"],
+          ["محور محرک", "محور عقب با دیفرانسیل لغزش محدود"],
+          ["ساختار", "کوپهٔ موتور جلو"]
+        ]
+      },
+      {
+        "title": "ابعاد و وزن",
+        "items": [
+          ["وزن", "1,892 کیلوگرم؛ برآورد curb"],
+          ["طول", "5,023 میلی‌متر"],
+          ["عرض", "1,923 میلی‌متر"],
+          ["ارتفاع", "1,449 میلی‌متر"],
+          ["فاصلهٔ محوری", "2,946 میلی‌متر"],
+          ["تعداد صندلی", "5"]
+        ]
+      },
+      {
+        "title": "ترمز و چرخ‌ها",
+        "items": [
+          ["نسخهٔ مرجع", "SRT8 مدل 2009"],
+          ["تجهیزات مدل سه‌بعدی", "رینگ، کاپوت و بدنه با تغییرات ظاهری"],
+          ["یادداشت", "تجهیزات هنری مدل لزوماً مشخصات کارخانه نیستند"]
+        ]
+      }
+    ],
+    "modelYaw": 0,
+    "glassMaterials": ["Material__288"],
+    "rubberMaterials": ["Material__301"]
+  },
+  {
+    "id": "tourbillon",
+    "brand": "Bugatti",
+    "model": "Tourbillon",
+    "shortName": "Tourbillon",
+    "name": "Bugatti Tourbillon",
+    "englishName": "Bugatti Tourbillon",
+    "englishBrand": "Bugatti",
+    "tag": "زمان، با معنایی تازه",
+    "year": 2026,
+    "price": 4200000,
+    "mileage": "1,200 کیلومتر",
+    "colorName": "آبی فرانسوی",
+    "accent": "#2462b0",
+    "power": {
+      "value": "1,800",
+      "unit": "PS",
+      "sortValue": 1800
+    },
+    "acceleration": {
+      "value": "<2.0",
+      "label": "0 تا 100 km/h"
+    },
+    "topSpeed": {
+      "value": "445",
+      "unit": "km/h"
+    },
+    "weight": "1,995 kg (اعلامی)",
+    "engine": "8.3 لیتری V16 + سه موتور برقی",
+    "transmissionShort": "8 سرعته دوکلاچه",
+    "drivetrain": "چهارچرخ هیبریدی",
+    "headline": "زمان، با معنایی تازه",
+    "storyTitle": "مهندسی آینده با ظرافت یک ساعت",
+    "description": "Tourbillon پیشرانهٔ V16 تنفس طبیعی را با سه موتور برقی ترکیب می‌کند. کابین با الهام از ساعت‌سازی و بدنه با تمرکز بر آیرودینامیک شکل گرفته‌اند تا تجربه‌ای هم‌زمان مکانیکی، دقیق و آینده‌نگر بسازند.",
+    "highlights": [
+      "پیشرانهٔ V16 تنفس طبیعی",
+      "سامانهٔ هیبریدی 1800 PS",
+      "نمایشگرهای مکانیکی الهام‌گرفته از ساعت"
+    ],
+    "modelFile": "hd/tourbillon.glb",
+    "paintMaterials": [
+      "bBugatti_Tourbillon_2026Paint_Material1",
+      "bBugatti_Tourbillon_2026Coloured_Material1"
+    ],
+    "modelAuthor": "Ddiaz Design",
+    "modelSource": "https://sketchfab.com/3d-models/2026-bugatti-tourbillon-4f63f5a74611477989cefd9861b9784a",
+    "modelLicense": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "colors": [
+      {
+        "name": "آبی فرانسوی",
+        "hex": "#2462b0"
+      },
+      {
+        "name": "سفید صدفی",
+        "hex": "#e8e9e3"
+      },
+      {
+        "name": "مشکی ابسیدین",
+        "hex": "#14191d"
+      }
+    ],
+    "image": "assets/editorial/tourbillon-hero.webp",
+    "sources": [
+      {
+        "title": "معرفی رسمی Bugatti Tourbillon",
+        "url": "https://newsroom.bugatti.com/en/press-releases/the-bugatti-tourbillon-an-automotive-icon-pour-leternite"
+      }
+    ],
+    "specNote": "این اعداد، اهداف و مشخصات اعلام‌شدهٔ Bugatti برای Tourbillon هستند؛ شتاب زیر 2 ثانیه و سرعت 445 با Speed Key اعلام شده‌اند. توان کل 1800 PS شامل پیشرانهٔ بنزینی و سه موتور برقی است. این مدل با شیرون W16 متفاوت است.",
+    "specs": [
+      {
+        "title": "پیشرانه و عملکرد",
+        "items": [
+          ["پیشرانه", "V16 تنفس طبیعی 8.3 لیتری + سه موتور برقی"],
+          ["توان کل", "1,800 PS"],
+          ["توان موتور بنزینی", "1,000 PS"],
+          ["توان الکتریکی", "800 PS"],
+          ["هدف صفر تا صد", "کمتر از 2 ثانیه"],
+          ["سرعت با Speed Key", "445 کیلومتر/ساعت"]
+        ]
+      },
+      {
+        "title": "انتقال قدرت و شاسی",
+        "items": [
+          ["گیربکس", "8 سرعتهٔ دوکلاچه"],
+          ["محور محرک", "چهارچرخ هیبریدی"],
+          ["باتری", "25 کیلووات‌ساعت"],
+          ["سازه", "مونوکوک کامپوزیت کربنی"]
+        ]
+      },
+      {
+        "title": "ابعاد و وزن",
+        "items": [
+          ["وزن اعلامی", "1,995 کیلوگرم"],
+          ["تعداد صندلی", "2"],
+          ["تعداد تولید اعلام‌شده", "250 دستگاه"]
+        ]
+      },
+      {
+        "title": "ترمز و چرخ‌ها",
+        "items": [
+          ["ترمز", "کربن‌سرامیک"],
+          ["رینگ جلو", "20 اینچ"],
+          ["رینگ عقب", "21 اینچ"]
+        ]
+      }
+    ],
+    "glassMaterials": []
+  },
+  {
+    "id": "one77",
+    "brand": "Aston Martin",
+    "model": "One-77",
+    "shortName": "One-77",
+    "name": "Aston Martin One-77",
+    "englishName": "Aston Martin One-77",
+    "englishBrand": "Aston Martin",
+    "tag": "هنر دست‌ساز، در هفتادوهفت نسخه",
+    "year": 2011,
+    "price": 2100000,
+    "mileage": "1,200 کیلومتر",
+    "colorName": "سبز بریتانیایی",
+    "accent": "#164c36",
+    "power": {
+      "value": "750",
+      "unit": "bhp",
+      "sortValue": 750
+    },
+    "acceleration": {
+      "value": "3.7",
+      "label": "0 تا 100 km/h"
+    },
+    "topSpeed": {
+      "value": "354",
+      "unit": "km/h"
+    },
+    "weight": "1,630 kg (dry)",
+    "engine": "7.3 لیتری V12 تنفس طبیعی",
+    "transmissionShort": "6 سرعته نیمه‌اتوماتیک",
+    "drivetrain": "محور عقب",
+    "headline": "هنر دست‌ساز، در هفتادوهفت نسخه",
+    "storyTitle": "کمیاب، حتی میان استثناها",
+    "description": "One-77 ترکیبی از مونوکوک کربنی، بدنهٔ آلومینیومی دست‌ساز و پیشرانهٔ V12 تنفس طبیعی است. تناسبات کشیده و فرم‌های حجیم، آن را به یکی از متمایزترین ساخته‌های Aston Martin تبدیل کرده‌اند.",
+    "highlights": ["تولید محدود 77 دستگاه", "مونوکوک فیبر کربن", "بدنهٔ آلومینیومی دست‌ساز"],
+    "modelFile": "hd/one77.glb",
+    "paintMaterials": [
+      "AstonAstonMartin_One77Reward_2010Paint_Material1",
+      "AstonAstonMartin_One77Reward_2010Coloured_Material1"
+    ],
+    "modelAuthor": "Ddiaz Design",
+    "modelSource": "https://sketchfab.com/3d-models/2011-aston-martin-one-77-f93cdfb6406f4f4dbc9f7b2dcb0f0ebd",
+    "modelLicense": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+    "colors": [
+      {
+        "name": "سبز بریتانیایی",
+        "hex": "#164c36"
+      },
+      {
+        "name": "سفید صدفی",
+        "hex": "#e8e9e3"
+      },
+      {
+        "name": "مشکی ابسیدین",
+        "hex": "#14191d"
+      }
+    ],
+    "image": "assets/editorial/one77-hero.webp",
+    "sources": [
+      {
+        "title": "آرشیو رسمی Aston Martin One-77",
+        "url": "https://www.astonmartin.com/en-gb/models/past-models/one-77"
+      },
+      {
+        "title": "برگهٔ مشخصات تاریخی Aston Martin",
+        "url": "https://www.allastonmartin.com/documents/prod_overview5.pdf"
+      }
+    ],
+    "specNote": "مشخصات تاریخی One-77 با توان 750 bhp. وزن خشک اعلام‌شده در برگهٔ مشخصات 1630 کیلوگرم است. گیربکس این خودرو 6 سرعتهٔ دستی خودکارشده است و با گیربکس دوکلاچه تفاوت دارد.",
+    "specs": [
+      {
+        "title": "پیشرانه و عملکرد",
+        "items": [
+          ["پیشرانه", "V12 تنفس طبیعی"],
+          ["حجم موتور", "7,312 سی‌سی"],
+          ["بیشینهٔ توان", "750 bhp"],
+          ["گشتاور", "750 نیوتن‌متر"],
+          ["صفر تا صد", "3.7 ثانیه"],
+          ["بیشینهٔ سرعت", "354 کیلومتر/ساعت"]
+        ]
+      },
+      {
+        "title": "انتقال قدرت و شاسی",
+        "items": [
+          ["گیربکس", "6 سرعتهٔ دستی خودکارشده ASM/SSM"],
+          ["محور محرک", "عقب با دیفرانسیل لغزش محدود"],
+          ["تعلیق", "جناغی دوبل با دمپرهای داخلی"],
+          ["سازه", "مونوکوک کربنی؛ بدنهٔ آلومینیومی"]
+        ]
+      },
+      {
+        "title": "ابعاد و وزن",
+        "items": [
+          ["وزن خشک", "1,630 کیلوگرم"],
+          ["طول", "4,601 میلی‌متر"],
+          ["عرض بدون آینه", "1,999.5 میلی‌متر"],
+          ["ارتفاع", "1,222 میلی‌متر"],
+          ["تعداد صندلی", "2"]
+        ]
+      },
+      {
+        "title": "ترمز و چرخ‌ها",
+        "items": [
+          ["ترمز", "کربن‌سرامیک"],
+          ["دیسک جلو", "398 میلی‌متر؛ کالیپر شش‌پیستون"],
+          ["دیسک عقب", "360 میلی‌متر؛ کالیپر چهارپیستون"]
+        ]
+      }
+    ],
+    "glassMaterials": []
+  },
+  {
+    "id": "ghost",
+    "brand": "Rolls-Royce",
+    "model": "Ghost",
+    "shortName": "Ghost",
+    "name": "Rolls-Royce Ghost",
+    "englishName": "Rolls-Royce Ghost",
+    "englishBrand": "Rolls-Royce",
+    "tag": "قدرتی که نیازی به نمایش ندارد",
+    "year": 2021,
+    "price": 349000,
+    "mileage": "1,200 کیلومتر",
+    "colorName": "مشکی نیمه‌شب",
+    "accent": "#14191e",
+    "power": {
+      "value": "571",
+      "unit": "PS",
+      "sortValue": 571
+    },
+    "acceleration": {
+      "value": "4.8",
+      "label": "0 تا 100 km/h"
+    },
+    "topSpeed": {
+      "value": "250",
+      "unit": "km/h"
+    },
+    "weight": "2,490 kg (curb)",
+    "engine": "6.75 لیتری V12 توئین‌توربو",
+    "transmissionShort": "8 سرعته خودکار",
+    "drivetrain": "چهارچرخ محرک",
+    "headline": "قدرتی که نیازی به نمایش ندارد",
+    "storyTitle": "آرامش، با تمام جزئیاتش",
+    "description": "Ghost با پیشرانهٔ V12 و تمرکز بر سکوت و آسایش، برداشت متفاوتی از پرفورمنس ارائه می‌دهد. طراحی بدنه آرام است و جزئیات، از جلوپنجره تا فضای کابین، با دقتی کم‌نظیر شکل گرفته‌اند.",
+    "highlights": ["پیشرانهٔ V12 توئین‌توربو", "تعلیق Planar", "چهارچرخ محرک و فرمان‌پذیر"],
+    "modelFile": "hd/ghost.glb",
+    "paintMaterials": ["rrghost_paint", "rrghost_paint_b"],
+    "modelAuthor": "Black Snow",
+    "modelSource": "https://sketchfab.com/3d-models/rolls-royce-ghost-4a590f4afa094fa8b407a14db77a63a8",
+    "modelLicense": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "colors": [
+      {
+        "name": "مشکی نیمه‌شب",
+        "hex": "#14191e"
+      },
+      {
+        "name": "سفید صدفی",
+        "hex": "#e8e9e3"
+      },
+      {
+        "name": "نقره‌ای ساتن",
+        "hex": "#abb3b6"
+      }
+    ],
+    "image": "assets/editorial/ghost-hero.webp",
+    "sources": [
+      {
+        "title": "پروندهٔ رسمی معرفی Rolls-Royce Ghost",
+        "url": "https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/attachment/T0315469EN/625220"
+      }
+    ],
+    "specNote": "مشخصات مرجع Ghost نسل دوم مدل 2021 با توان متریک PS و وزن curb است. فایل ارسالی از Black Snow و با مجوز CC BY است؛ این فایل با مدل تجاری SQUIR در لینک نخست متفاوت است و همان فایل تحویلی در سایت استفاده می‌شود.",
+    "specs": [
+      {
+        "title": "پیشرانه و عملکرد",
+        "items": [
+          ["پیشرانه", "V12 توئین‌توربو 6.75 لیتری"],
+          ["بیشینهٔ توان", "571 PS"],
+          ["بیشینهٔ گشتاور", "850 نیوتن‌متر"],
+          ["صفر تا صد", "4.8 ثانیه"],
+          ["بیشینهٔ سرعت", "250 کیلومتر/ساعت؛ محدودشده"]
+        ]
+      },
+      {
+        "title": "انتقال قدرت و شاسی",
+        "items": [
+          ["گیربکس", "8 سرعتهٔ خودکار"],
+          ["محور محرک", "چهارچرخ"],
+          ["تعلیق", "سامانهٔ Planar"],
+          ["فرمان", "چهارچرخ فرمان‌پذیر"]
+        ]
+      },
+      {
+        "title": "ابعاد و وزن",
+        "items": [
+          ["وزن آماده‌حرکت", "2,490 کیلوگرم"],
+          ["طول", "5,546 میلی‌متر"],
+          ["عرض", "1,978 میلی‌متر"],
+          ["ارتفاع", "1,571 میلی‌متر"],
+          ["فاصلهٔ محوری", "3,295 میلی‌متر"]
+        ]
+      },
+      {
+        "title": "ترمز و چرخ‌ها",
+        "items": [
+          ["ترمز", "دیسک‌های خنک‌شونده"],
+          ["رینگ‌ها", "21 اینچ؛ 22 اینچ اختیاری"]
+        ]
+      }
+    ]
+  }
+]

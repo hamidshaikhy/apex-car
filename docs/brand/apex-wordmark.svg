@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="118" viewBox="0 0 390 118" role="img" aria-label="APEX Motor Collective">
+  <rect width="390" height="118" rx="8" fill="#101512"/>
+  <path d="m33 82 34-53 34 53H80L67 59 54 82H33Z" fill="#f1f3eb"/>
+  <path d="m67 29 34 53" stroke="#f5723f" stroke-width="3"/>
+  <text x="128" y="69" fill="#f1f3eb" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="600" letter-spacing="8">APEX</text>
+  <text x="131" y="88" fill="#aebca5" font-family="Arial,Helvetica,sans-serif" font-size="8" font-weight="500" letter-spacing="3">MOTOR COLLECTIVE</text>
+</svg>
